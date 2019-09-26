@@ -1,0 +1,14 @@
+version: '3'
+services:
+  monitoria-db-crawler:
+    image: postgres:11.5-alpine
+  monitoria-crawler:
+    build: .
+    command: python3 manage.py runserver 0.0.0.0:8001
+    volumes:
+      - .:/code
+    ports:
+      - "8001:8001"
+    container_name: monitoria-crawler
+    depends_on:
+      - monitoria-db-crawler
