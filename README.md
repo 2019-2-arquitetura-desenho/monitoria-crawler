@@ -1,2 +1,31 @@
-# monitoria-crawler
-Repositório destinado a obter informações das ofertas do Matrícula Web, UnB.
+# monitoria-api
+Repositório destinado a API de oferta (Crawler) da aplicação "A Monitoria".
+
+## Execução
+
+Inicializar serviço do docker:
+```
+    make start-docker
+```
+
+Caso não dê certo, use:
+```
+    make start-docker2
+```
+
+Inicializar Aplicação:
+```
+    make server
+```
+
+Para inicializar o bash do container, após subir o container:
+```
+    make bash
+```
+
+Para rodar as migrations:
+```sh
+    make bash
+    python3 manage.py makemigrations
+    python3 manage.py migrate
+```
