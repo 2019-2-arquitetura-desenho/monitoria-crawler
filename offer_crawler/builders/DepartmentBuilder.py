@@ -74,9 +74,3 @@ class DepartmentBuilder(TableReaderMixin, UrlLoaderMixin):
         department.setDisciplines(disciplines)
 
         return department
-
-all_disciplines = DepartmentBuilder().buildDepartment(650, 'UNB - FACULDADE DO GAMA')
-for discipline in all_disciplines.getDisciplines():
-    print('{} - {} - {}'.format(discipline.getName(), discipline.getCode(), discipline.getCredits()))
-    for classe in discipline.getClasses():
-        print('{} - {} - {}'.format(classe.getName(), classe.getVacancies(), classe.getShift()))
