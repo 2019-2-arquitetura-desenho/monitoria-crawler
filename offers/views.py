@@ -1,6 +1,8 @@
 from rest_framework import viewsets
 from .serializers import DisciplineSerializer, DisciplineClassSerializer
 from .serializers import ProfessorSerializer, AlocationSerializer, MeetingSerializer
+from .models import Discipline, DisciplineClass
+from .models import Professor, Alocation, Meeting
 
 
 class DisciplineViewSet(viewsets.ModelViewSet):
