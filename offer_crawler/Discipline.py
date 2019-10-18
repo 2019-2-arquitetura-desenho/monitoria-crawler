@@ -40,6 +40,9 @@ class Discipline:
     def setCode(self, code):
         if isinstance(code, type(self.__code)):
             self.__code = code
+    
+    def getDepartment(self):
+        return self.__department
 
     def setDepartment(self, department):
         if isinstance(department, type(self.__department)):
