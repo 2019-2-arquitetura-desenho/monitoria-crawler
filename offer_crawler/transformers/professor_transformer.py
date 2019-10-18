@@ -1,5 +1,6 @@
-from transformer import JsonTransformer
-
+from offer_crawler.transformers.transformer import JsonTransformer
+import json
+import collections
 
 class ProfessorTransformer(JsonTransformer):
     pk = 1

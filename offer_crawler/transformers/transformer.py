@@ -1,6 +1,5 @@
 from abc import ABC, abstractmethod
 
-
 class JsonTransformer(ABC):
     def template_offer(self, obj) -> None:
         self.define_model()
@@ -23,11 +22,4 @@ class JsonTransformer(ABC):
     @abstractmethod
     def write_json(self) -> None:
         pass
-
-
-def client(json_transformer: JsonTransformer):
-    json_transformer.template_offer(myDis)
-
-
-
 

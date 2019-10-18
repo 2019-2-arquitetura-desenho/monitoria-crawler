@@ -1,8 +1,7 @@
-from transformer import JsonTransformer
-from offer_crawler.Class import Class
 import collections
 import json
-
+from offer_crawler.transformers.transformer import JsonTransformer
+from offer_crawler.Class import Class
 
 class DisciplineClassTransformer(JsonTransformer):
     pk = 1
@@ -31,12 +30,3 @@ class DisciplineClassTransformer(JsonTransformer):
     def write_json(self):
         with open('offers/fixtures/discipline_class.json', "w") as f:
             json.dump(DisciplineClassTransformer.disciplines_class, f, indent=4)
-
-
-
-myDis = Class()
-myDis.setName('A')
-myDis.setVacancies(60)
-myDis.setShift('Diurno')
-
-DisciplineClassTransformer(myDis).template_offer(myDis)
