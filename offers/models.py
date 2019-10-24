@@ -42,6 +42,6 @@ class Meeting(models.Model):
         on_delete=models.CASCADE
     )
     day = models.CharField(max_length=50)
-    init_hout = models.TimeField()
-    final_hout = models.TimeField()
+    init_hour = models.TimeField()
+    final_hour = models.TimeField()
     room = models.CharField(max_length=250)

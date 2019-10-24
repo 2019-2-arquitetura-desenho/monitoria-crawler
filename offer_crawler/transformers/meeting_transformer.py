@@ -19,8 +19,8 @@ class MeetingTransformer(JsonTransformer):
 
     def define_fields(self, meeting) -> None:
         self.map_meeting["fields"]["day"] = self.meeting["day"]
-        self.map_meeting["fields"]["init_hout"] = self.meeting["init_hour"]
-        self.map_meeting["fields"]["final_hout"] = self.meeting["final_hour"]
+        self.map_meeting["fields"]["init_hour"] = self.meeting["init_hour"]
+        self.map_meeting["fields"]["final_hour"] = self.meeting["final_hour"]
         self.map_meeting["fields"]["room"] = self.meeting["room"]
         self.map_meeting["fields"]["discipline_class"] = self.fk
         MeetingTransformer.meetings.append(self.map_meeting)
