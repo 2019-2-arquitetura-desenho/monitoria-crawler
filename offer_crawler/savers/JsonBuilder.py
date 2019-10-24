@@ -7,40 +7,36 @@ from offer_crawler.savers.Saver import Saver
 import collections
 
 
-class Mediator:
+class JsonBuilder:
     teacher_pk = 1
     discipline_class_pk = 1
 
-    def __init__(self):
-        self.department = self.build_department()
+    def __init__(self, department):
+        self.department = department
         self.teachers = collections.defaultdict(int)
         self.disciplines_json()
-        self.save()
-
-    def build_department(self):
-        return DepartmentBuilder().buildDepartment()
 
     def disciplines_json(self):
         pk = 1
         for discipline in self.department.getDisciplines():
             DisciplineTransformer(discipline).template_offer(discipline)
-            self.disciplines_class_jason(pk, discipline)
+            self.disciplines_class_json(pk, discipline)
             pk += 1
 
-    def disciplines_class_jason(self, fk, discipline):
+    def disciplines_class_json(self, fk, discipline):
         for discipline_class in discipline.getClasses():
             professors = []
             for teacher in discipline_class.getTeachers():
                 if self.teachers[teacher] == 0:
-                    self.teachers[teacher] = Mediator.teacher_pk
+                    self.teachers[teacher] = JsonBuilder.teacher_pk
                     self.teachers_json(teacher)
-                    professors.append(Mediator.teacher_pk)
-                    Mediator.teacher_pk += 1
+                    professors.append(JsonBuilder.teacher_pk)
+                    JsonBuilder.teacher_pk += 1
                 else:
                     professors.append(self.teachers[teacher])
 
-            self.meetings_json(Mediator.discipline_class_pk, discipline_class.getMettings())
-            Mediator.discipline_class_pk += 1
+            self.meetings_json(JsonBuilder.discipline_class_pk, discipline_class.getMettings())
+            JsonBuilder.discipline_class_pk += 1
 
             DisciplineClassTransformer(discipline_class, fk, professors).template_offer(discipline_class)
 
@@ -50,8 +46,3 @@ class Mediator:
     def meetings_json(self, fk, meetings):
         for meeting in meetings:
             MeetingTransformer(fk, meeting).template_offer(meeting)
-
-    def save(self):
-        Saver()
-
-a = Mediator()
