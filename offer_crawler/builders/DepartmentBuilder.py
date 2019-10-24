@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 
 from offer_crawler import BASE_URL
 from offer_crawler.Mixins import TableReaderMixin, UrlLoaderMixin
-from offer_crawler.Department import Department
+from offer_crawler.classes.Department import Department
 from offer_crawler.builders.DisciplinesBuilder import DisciplinesBuilder
 from multiprocessing.dummy import Pool as ThreadPool
 
