@@ -1,5 +1,4 @@
 from offer_crawler.transformers.transformer import JsonTransformer
-import json
 import collections
 
 class MeetingTransformer(JsonTransformer):
@@ -25,7 +24,3 @@ class MeetingTransformer(JsonTransformer):
         self.map_meeting["fields"]["room"] = self.meeting["room"]
         self.map_meeting["fields"]["discipline_class"] = self.fk
         MeetingTransformer.meetings.append(self.map_meeting)
-
-    def write_json(self):
-        with open('offers/fixtures/meeting.json', 'w', encoding='utf8') as f:
-            json.dump(MeetingTransformer.meetings, f, indent=4, ensure_ascii=False)

@@ -1,5 +1,4 @@
 import collections
-import json
 from offer_crawler.transformers.transformer import JsonTransformer
 
 
@@ -28,7 +27,3 @@ class DisciplineClassTransformer(JsonTransformer):
         self.map_discipline_class["fields"]["teachers"] = self.teachers
 
         DisciplineClassTransformer.disciplines_class.append(self.map_discipline_class)
-
-    def write_json(self):
-        with open('offers/fixtures/discipline_class.json', 'w', encoding='utf8') as f:
-            json.dump(DisciplineClassTransformer.disciplines_class, f, indent=4,  ensure_ascii=False)

@@ -1,5 +1,4 @@
 from offer_crawler.transformers.transformer import JsonTransformer
-import json
 import collections
 
 class ProfessorTransformer(JsonTransformer):
@@ -21,7 +20,3 @@ class ProfessorTransformer(JsonTransformer):
         self.map_professor["fields"]["name"] = self.professor
 
         ProfessorTransformer.professors.append(self.map_professor)
-
-    def write_json(self):
-        with open('offers/fixtures/professor.json', 'w', encoding='utf8') as f:
-            json.dump(ProfessorTransformer.professors, f, indent=4, ensure_ascii=False)
