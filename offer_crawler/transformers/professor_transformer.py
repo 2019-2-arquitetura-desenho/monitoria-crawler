@@ -18,11 +18,10 @@ class ProfessorTransformer(JsonTransformer):
         ProfessorTransformer.pk += 1
 
     def define_fields(self, professor) -> None:
-        self.map_professor["fields"]["name"] = self.professor.getName()
-        print(self.map_professor)
+        self.map_professor["fields"]["name"] = self.professor
+
         ProfessorTransformer.professors.append(self.map_professor)
-    
+
     def write_json(self):
-        with open('offers/fixtures/professor.json', "w") as f:
-            json.dump(ProfessorTransformer.professors, f, indent=4)
-            
+        with open('offers/fixtures/professor.json', 'w', encoding='utf8') as f:
+            json.dump(ProfessorTransformer.professors, f, indent=4, ensure_ascii=False)
