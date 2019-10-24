@@ -1,14 +1,16 @@
 import collections
 import json
 from offer_crawler.transformers.transformer import JsonTransformer
-from offer_crawler.Class import Class
+
 
 class DisciplineClassTransformer(JsonTransformer):
     pk = 1
     disciplines_class = []
 
-    def __init__(self, discipline_class):
+    def __init__(self, discipline_class, fk, teachers):
         self.map_discipline_class = collections.defaultdict(dict)
+        self.fk = fk
+        self.teachers = teachers
         self.discipline_class = discipline_class
 
     def define_model(self) -> None:
@@ -22,11 +24,11 @@ class DisciplineClassTransformer(JsonTransformer):
         self.map_discipline_class["fields"]["name"] = self.discipline_class.getName()
         self.map_discipline_class["fields"]["vacancies"] = self.discipline_class.getVacancies()
         self.map_discipline_class["fields"]["shift"] = self.discipline_class.getShift()
-        self.map_discipline_class["fields"]["discipline"] = self.discipline_class.getDiscipline()
-        self.map_discipline_class["fields"]["teachers"] = self.discipline_class.getTeachers()
-        print(self.map_discipline_class)
+        self.map_discipline_class["fields"]["discipline"] = self.fk
+        self.map_discipline_class["fields"]["teachers"] = self.teachers
+
         DisciplineClassTransformer.disciplines_class.append(self.map_discipline_class)
-    
+
     def write_json(self):
-        with open('offers/fixtures/discipline_class.json', "w") as f:
-            json.dump(DisciplineClassTransformer.disciplines_class, f, indent=4)
+        with open('offers/fixtures/discipline_class.json', 'w', encoding='utf8') as f:
+            json.dump(DisciplineClassTransformer.disciplines_class, f, indent=4,  ensure_ascii=False)
