@@ -25,5 +25,28 @@ class Mediator:
             self.build_disciplines_class(pk, discipline)
             pk += 1
 
+    def build_disciplines_class(self, fk, discipline):
+        for discipline_class in discipline.getClasses():
+            professors = []
+            for teacher in discipline_class.getTeachers():
+                if self.teachers[teacher] == 0:
+                    self.teachers[teacher] = Mediator.teacher_pk
+                    self.build_teachers(teacher)
+                    professors.append(Mediator.teacher_pk)
+                    Mediator.teacher_pk += 1
+                else:
+                    professors.append(self.teachers[teacher])
+
+            self.build_meetings(Mediator.discipline_class_pk, discipline_class.getMettings())
+            Mediator.discipline_class_pk += 1
+
+            DisciplineClassTransformer(discipline_class, fk, professors).template_offer(discipline_class)
+
+    def build_teachers(self, teacher):
+        ProfessorTransformer(teacher).template_offer(teacher)
+
+    def build_meetings(self, fk, meetings):
+        for meeting in meetings:
+            MeetingTransformer(fk, meeting).template_offer(meeting)
 
 a = Mediator()
