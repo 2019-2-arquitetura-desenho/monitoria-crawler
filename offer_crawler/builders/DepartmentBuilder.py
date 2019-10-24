@@ -63,10 +63,10 @@ class DepartmentBuilder(TableReaderMixin, UrlLoaderMixin):
             pool.close()
             pool.join()
 
-        print("[Department {}] Finished".format(name))
+        print('[Department {}] Finished'.format(name))
         return disciplines
 
-    def buildDepartment(self, code, name):
+    def buildDepartment(self, code=650, name= 'UNB - FACULDADE DO GAMA'):
 
         disciplines = self.buildFromHtml(code, name)
 

@@ -1,0 +1,1702 @@
+[
+    {
+        "model": "offers.discipline",
+        "pk": 1,
+        "fields": {
+            "name": "DINÂMICA DOS FLUÍDOS",
+            "code": "203866",
+            "department": 650,
+            "credits": "004-001-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 2,
+        "fields": {
+            "name": "ANATOMIA E FISIOLOGIA HUMANA",
+            "code": "102431",
+            "department": 650,
+            "credits": "002-002-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 3,
+        "fields": {
+            "name": "ANÁLISE DE SISTEMAS DE ENERGIA ELÉTRICA",
+            "code": "103667",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 4,
+        "fields": {
+            "name": "COMPILADORES 1",
+            "code": "101095",
+            "department": 650,
+            "credits": "002-002-000-000"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 5,
+        "fields": {
+            "name": "ECONOMIA DE ENERGIA",
+            "code": "208558",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 6,
+        "fields": {
+            "name": "ELETRICIDADE APLICADA",
+            "code": "201634",
+            "department": 650,
+            "credits": "004-002-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 7,
+        "fields": {
+            "name": "ACÚSTICA E VIBRAÇÕES VEICULARES",
+            "code": "208582",
+            "department": 650,
+            "credits": "003-001-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 8,
+        "fields": {
+            "name": "ERGONOMIA DO PRODUTO",
+            "code": "193879",
+            "department": 650,
+            "credits": "002-002-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 9,
+        "fields": {
+            "name": "DESENVOLVIMENTO DE SOFTWARE",
+            "code": "120651",
+            "department": 650,
+            "credits": "002-002-000-000"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 10,
+        "fields": {
+            "name": "ENGENHARIA E AMBIENTE",
+            "code": "198005",
+            "department": 650,
+            "credits": "004-000-000-002"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 11,
+        "fields": {
+            "name": "ELETRÔNICA VEICULAR",
+            "code": "206237",
+            "department": 650,
+            "credits": "003-001-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 12,
+        "fields": {
+            "name": "CÁLCULO 3",
+            "code": "113051",
+            "department": 650,
+            "credits": "004-002-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 13,
+        "fields": {
+            "name": "BIORREFINARIAS",
+            "code": "206326",
+            "department": 650,
+            "credits": "002-002-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 14,
+        "fields": {
+            "name": "ENGENHARIA DE PRODUTO DE SOFTWARE",
+            "code": "203874",
+            "department": 650,
+            "credits": "002-002-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 15,
+        "fields": {
+            "name": "ESTRUTURAS DE DADOS 2",
+            "code": "103209",
+            "department": 650,
+            "credits": "000-004-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 16,
+        "fields": {
+            "name": "FISICA 1 EXPERIMENTAL",
+            "code": "118010",
+            "department": 650,
+            "credits": "000-002-000-000"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 17,
+        "fields": {
+            "name": "ARQUITETURA DE MOTORES DE COMBUSTÃO INTERNA",
+            "code": "203769",
+            "department": 650,
+            "credits": "004-000-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 18,
+        "fields": {
+            "name": "DINÂMICA DOS GASES PARA SISTEMAS AEROESPACIAIS",
+            "code": "107425",
+            "department": 650,
+            "credits": "004-000-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 19,
+        "fields": {
+            "name": "ANÁLISE ESTRUTURAL MÉTODO DOS ELEMENTOS FINITOS",
+            "code": "206270",
+            "department": 650,
+            "credits": "002-002-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 20,
+        "fields": {
+            "name": "COMUNICAÇÕES DIGITAIS PARA ENGENHARIA",
+            "code": "206229",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 21,
+        "fields": {
+            "name": "EFICIÊNCIA ENERGÉTICA EM INSTALAÇÕES ELÉTRICAS INDUSTRIAIS",
+            "code": "129704",
+            "department": 650,
+            "credits": "002-002-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 22,
+        "fields": {
+            "name": "AERODINÂMICA DE SISTEMAS AEROESPACIAIS",
+            "code": "104779",
+            "department": 650,
+            "credits": "004-001-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 23,
+        "fields": {
+            "name": "FÍSICA MODERNA",
+            "code": "193691",
+            "department": 650,
+            "credits": "004-002-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 24,
+        "fields": {
+            "name": "DINÂMICA DE ESTRUTURAS AEROESPACIAIS",
+            "code": "110094",
+            "department": 650,
+            "credits": "004-000-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 25,
+        "fields": {
+            "name": "CIÊNCIAS AEROESPACIAIS",
+            "code": "208213",
+            "department": 650,
+            "credits": "002-002-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 26,
+        "fields": {
+            "name": "ELETRÔNICA DE ALTA FREQUÊNCIA",
+            "code": "127779",
+            "department": 650,
+            "credits": "002-002-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 27,
+        "fields": {
+            "name": "ENGENHARIA DE PETRÓLEO E GÁS",
+            "code": "201332",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 28,
+        "fields": {
+            "name": "ENGENHARIA ECONÔMICA",
+            "code": "193321",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 29,
+        "fields": {
+            "name": "ENGENHARIA DE SEGURANÇA DO TRABALHO",
+            "code": "193712",
+            "department": 650,
+            "credits": "001-001-000-002"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 30,
+        "fields": {
+            "name": "FENOMENOS DE TRANSPORTE",
+            "code": "168203",
+            "department": 650,
+            "credits": "004-001-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 31,
+        "fields": {
+            "name": "CÁLCULO 1",
+            "code": "113034",
+            "department": 650,
+            "credits": "002-004-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 32,
+        "fields": {
+            "name": "ANÁLISE INSTRUMENTAL DE COMBUSTÍVEIS",
+            "code": "201341",
+            "department": 650,
+            "credits": "002-002-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 33,
+        "fields": {
+            "name": "ELEMENTOS E MÉTODOS EM ELETRÔNICA",
+            "code": "199150",
+            "department": 650,
+            "credits": "002-002-000-002"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 34,
+        "fields": {
+            "name": "DINÂMICA DOS MECANISMOS",
+            "code": "102849",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 35,
+        "fields": {
+            "name": "ARQUITETURA E DESENHO DE SOFTWARE",
+            "code": "203882",
+            "department": 650,
+            "credits": "000-004-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 36,
+        "fields": {
+            "name": "FONTES DE ENERGIA E TECNOLOGIAS DE CONVERSÃO",
+            "code": "199184",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 37,
+        "fields": {
+            "name": "COMBUSTÍVEIS E BIOCOMBUSTÍVEIS",
+            "code": "195324",
+            "department": 650,
+            "credits": "002-002-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 38,
+        "fields": {
+            "name": "ELETRÔNICA EMBARCADA",
+            "code": "120871",
+            "department": 650,
+            "credits": "004-002-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 39,
+        "fields": {
+            "name": "ENGENHARIA DE PRODUTO",
+            "code": "203823",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 40,
+        "fields": {
+            "name": "EQUIPAMENTOS TERMOFLUIDOS AUTOMOTIVOS",
+            "code": "119806",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 41,
+        "fields": {
+            "name": "ENGENHARIA DE SOFTWARE EXPERIMENTAL",
+            "code": "208671",
+            "department": 650,
+            "credits": "002-002-000-000"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 42,
+        "fields": {
+            "name": "DINÂMICA DE VEÍCULOS",
+            "code": "206288",
+            "department": 650,
+            "credits": "004-000-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 43,
+        "fields": {
+            "name": "DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR",
+            "code": "199176",
+            "department": 650,
+            "credits": "002-004-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 44,
+        "fields": {
+            "name": "FISICA 1",
+            "code": "118001",
+            "department": 650,
+            "credits": "004-000-000-000"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 45,
+        "fields": {
+            "name": "ALGORITMOS E PROGRAMAÇÃO DE COMPUTADORES",
+            "code": "113476",
+            "department": 650,
+            "credits": "004-002-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 46,
+        "fields": {
+            "name": "CÁLCULO 2",
+            "code": "113042",
+            "department": 650,
+            "credits": "004-002-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 47,
+        "fields": {
+            "name": "FUNDAMENTOS DE SISTEMAS OPERACIONAIS",
+            "code": "201286",
+            "department": 650,
+            "credits": "002-002-000-000"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 48,
+        "fields": {
+            "name": "FUNDAMENTOS DE ARQUITETURA DE COMPUTADORES",
+            "code": "193674",
+            "department": 650,
+            "credits": "002-002-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 49,
+        "fields": {
+            "name": "HUMANIDADES E CIDADANIA",
+            "code": "199133",
+            "department": 650,
+            "credits": "004-000-000-002"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 50,
+        "fields": {
+            "name": "GESTÃO AMBIENTAL NO SETOR ENERGÉTICO",
+            "code": "193666",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 51,
+        "fields": {
+            "name": "INTRODUÇÃO AO DESGASTE",
+            "code": "119814",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 52,
+        "fields": {
+            "name": "MÁQUINAS DE FLUIDO",
+            "code": "120791",
+            "department": 650,
+            "credits": "004-001-001-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 53,
+        "fields": {
+            "name": "INTEGRAÇÃO E TESTES",
+            "code": "206296",
+            "department": 650,
+            "credits": "004-000-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 54,
+        "fields": {
+            "name": "MECÂNICA DE ESTRUTURAS AEROESPACIAIS",
+            "code": "104787",
+            "department": 650,
+            "credits": "004-001-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 55,
+        "fields": {
+            "name": "MECANICA DOS SÓLIDOS 1 PARA ENGENHARIA",
+            "code": "195308",
+            "department": 650,
+            "credits": "004-000-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 56,
+        "fields": {
+            "name": "INTRODUCAO A ALGEBRA LINEAR",
+            "code": "113093",
+            "department": 650,
+            "credits": "002-002-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 57,
+        "fields": {
+            "name": "PARADIGMAS DE PROGRAMAÇÃO",
+            "code": "203904",
+            "department": 650,
+            "credits": "000-004-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 58,
+        "fields": {
+            "name": "MÉTODOS DE DESENVOLVIMENTO DE SOFTWARE",
+            "code": "193640",
+            "department": 650,
+            "credits": "002-002-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 59,
+        "fields": {
+            "name": "LABORATÓRIO DE MATERIAIS DE CONSTRUÇÃO",
+            "code": "119792",
+            "department": 650,
+            "credits": "000-001-000-001"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 60,
+        "fields": {
+            "name": "MATEMÁTICA DISCRETA 1",
+            "code": "120669",
+            "department": 650,
+            "credits": "004-000-000-000"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 61,
+        "fields": {
+            "name": "MÉTODOS NUMÉRICOS PARA ENGENHARIA",
+            "code": "195413",
+            "department": 650,
+            "credits": "002-002-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 62,
+        "fields": {
+            "name": "FUNDAMENTOS DE VARIÁVEL COMPLEXA PARA ENGENHARIA",
+            "code": "118869",
+            "department": 650,
+            "credits": "002-002-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 63,
+        "fields": {
+            "name": "FUNDAMENTOS DE EQUAÇÕES DIFERENCIAIS PARA ENGENHARIA",
+            "code": "101117",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 64,
+        "fields": {
+            "name": "INSTRUMENTAÇÃO BIOMÉDICA 2",
+            "code": "208256",
+            "department": 650,
+            "credits": "002-002-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 65,
+        "fields": {
+            "name": "INTELIGÊNCIA ARTIFICIAL",
+            "code": "206199",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 66,
+        "fields": {
+            "name": "MÁQUINAS DE FLUXO",
+            "code": "207004",
+            "department": 650,
+            "credits": "004-001-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 67,
+        "fields": {
+            "name": "INTRODUÇÃO À ENGENHARIA",
+            "code": "198013",
+            "department": 650,
+            "credits": "002-000-000-002"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 68,
+        "fields": {
+            "name": "INTRODUÇÃO AO DESIGN E CONCEPÇÃO DE VEÍCULOS",
+            "code": "195316",
+            "department": 650,
+            "credits": "002-002-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 69,
+        "fields": {
+            "name": "MECANICA DOS SÓLIDOS 2 PARA ENGENHARIA",
+            "code": "201359",
+            "department": 650,
+            "credits": "004-000-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 70,
+        "fields": {
+            "name": "MECÂNICA DO VÔO",
+            "code": "107441",
+            "department": 650,
+            "credits": "004-000-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 71,
+        "fields": {
+            "name": "GESTÃO DA PRODUÇÃO AUTOMOTIVA",
+            "code": "203777",
+            "department": 650,
+            "credits": "002-002-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 72,
+        "fields": {
+            "name": "LABORATÓRIO DE ONDULATÓRIA E FÍSICA TÉRMICA PARA A ENGENHARIA",
+            "code": "122955",
+            "department": 650,
+            "credits": "000-002-000-000"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 73,
+        "fields": {
+            "name": "MÉTODOS E TÉCNICAS DA ESCRITA CIENTÍFICA",
+            "code": "107450",
+            "department": 650,
+            "credits": "004-000-000-000"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 74,
+        "fields": {
+            "name": "ONDULATÓRIA E FÍSICA TÉRMICA PARA ENGENHARIA",
+            "code": "120731",
+            "department": 650,
+            "credits": "002-002-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 75,
+        "fields": {
+            "name": "PRÁTICA DE CIRCUITOS ELETRÔNICOS 1",
+            "code": "119148",
+            "department": 650,
+            "credits": "000-002-000-002"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 76,
+        "fields": {
+            "name": "MATEMÁTICA DISCRETA 2",
+            "code": "127698",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 77,
+        "fields": {
+            "name": "GERÊNCIA DE CONFIGURAÇÃO E EVOLUÇÃO DE SOFTWARE",
+            "code": "206598",
+            "department": 650,
+            "credits": "002-002-000-000"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 78,
+        "fields": {
+            "name": "MAQUINAS TERMICAS",
+            "code": "168025",
+            "department": 650,
+            "credits": "004-001-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 79,
+        "fields": {
+            "name": "FUNDAMENTOS DE REDES DE COMPUTADORES",
+            "code": "203912",
+            "department": 650,
+            "credits": "002-002-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 80,
+        "fields": {
+            "name": "INSTRUMENTAÇÃO ELETRÔNICA",
+            "code": "206164",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 81,
+        "fields": {
+            "name": "INTERAÇÃO HUMANO COMPUTADOR",
+            "code": "201316",
+            "department": 650,
+            "credits": "002-002-000-002"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 82,
+        "fields": {
+            "name": "INTRODUÇÃO À WEB SEMÂNTICA",
+            "code": "127728",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 83,
+        "fields": {
+            "name": "MECÂNICA DO VÔO ESPACIAL",
+            "code": "108481",
+            "department": 650,
+            "credits": "004-000-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 84,
+        "fields": {
+            "name": "LABORATÓRIO DE ELETRICIDADE APLICADA",
+            "code": "120707",
+            "department": 650,
+            "credits": "000-002-000-002"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 85,
+        "fields": {
+            "name": "LABORATÓRIO DE SISTEMAS DE CONVERSÃO DE ENERGIA",
+            "code": "120723",
+            "department": 650,
+            "credits": "000-002-000-002"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 86,
+        "fields": {
+            "name": "MELHORIA DE PROCESSOS DE SOFTWARE",
+            "code": "208655",
+            "department": 650,
+            "credits": "000-004-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 87,
+        "fields": {
+            "name": "GESTÃO DA PRODUÇÃO E QUALIDADE",
+            "code": "201626",
+            "department": 650,
+            "credits": "004-000-000-002"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 88,
+        "fields": {
+            "name": "ORIENTAÇÃO A OBJETOS",
+            "code": "195341",
+            "department": 650,
+            "credits": "000-004-000-000"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 89,
+        "fields": {
+            "name": "MÉTODOS EXPERIMENTAIS PARA ENGENHARIA",
+            "code": "203734",
+            "department": 650,
+            "credits": "002-002-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 90,
+        "fields": {
+            "name": "MATERIAIS COMPOSTOS E PLÁSTICOS",
+            "code": "203751",
+            "department": 650,
+            "credits": "004-000-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 91,
+        "fields": {
+            "name": "PRÁTICA DE CIRCUITOS ELETRÔNICOS 2",
+            "code": "119458",
+            "department": 650,
+            "credits": "000-002-000-002"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 92,
+        "fields": {
+            "name": "PRÁTICA DE CIRCUITOS ELETRÔNICOS 3",
+            "code": "120898",
+            "department": 650,
+            "credits": "000-002-000-002"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 93,
+        "fields": {
+            "name": "PRINCÍPIOS DE CONTROLE",
+            "code": "120847",
+            "department": 650,
+            "credits": "004-001-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 94,
+        "fields": {
+            "name": "PRÁTICA DE ELETRÔNICA DIGITAL 2",
+            "code": "119474",
+            "department": 650,
+            "credits": "000-002-000-002"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 95,
+        "fields": {
+            "name": "ESTÁGIO SUPERVISIONADO",
+            "code": "102512",
+            "department": 650,
+            "credits": "000-014-000-014"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 96,
+        "fields": {
+            "name": "PROCESSAMENTO DIGITAL DE SINAIS FINANCEIROS",
+            "code": "130885",
+            "department": 650,
+            "credits": "002-002-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 97,
+        "fields": {
+            "name": "PROJETOS DE CIRCUITOS INTEGRADOS 2",
+            "code": "102482",
+            "department": 650,
+            "credits": "002-002-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 98,
+        "fields": {
+            "name": "PROCESSAMENTO DE SINAIS",
+            "code": "206172",
+            "department": 650,
+            "credits": "002-002-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 99,
+        "fields": {
+            "name": "PROGRAMAÇÃO PARA COMPETIÇÕES",
+            "code": "103195",
+            "department": 650,
+            "credits": "000-004-000-000"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 100,
+        "fields": {
+            "name": "PROJETO DE ESTRUTURAS DE VEICULOS",
+            "code": "208591",
+            "department": 650,
+            "credits": "004-000-000-008"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 101,
+        "fields": {
+            "name": "PROJETO DE SISTEMAS DE CONTROLE",
+            "code": "107433",
+            "department": 650,
+            "credits": "004-000-000-000"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 102,
+        "fields": {
+            "name": "REGULAÇÃO AMBIENTAL NO SETOR ENERGÉTICO",
+            "code": "130907",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 103,
+        "fields": {
+            "name": "PROJETO DE CIRCUITOS ELETRÔNICOS INTEGRADOS 1",
+            "code": "206148",
+            "department": 650,
+            "credits": "002-002-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 104,
+        "fields": {
+            "name": "SISTEMAS DE BANCO DE DADOS 2",
+            "code": "115576",
+            "department": 650,
+            "credits": "002-002-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 105,
+        "fields": {
+            "name": "SISTEMAS AEROESPACIAIS",
+            "code": "101133",
+            "department": 650,
+            "credits": "004-000-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 106,
+        "fields": {
+            "name": "PROPULSÃO ELÉTRICA",
+            "code": "117684",
+            "department": 650,
+            "credits": "003-001-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 107,
+        "fields": {
+            "name": "QUIMICA GERAL EXPERIMENTAL",
+            "code": "114634",
+            "department": 650,
+            "credits": "000-002-000-000"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 108,
+        "fields": {
+            "name": "PRÁTICA DE ELETROMAGNETISMO",
+            "code": "128562",
+            "department": 650,
+            "credits": "000-002-000-000"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 109,
+        "fields": {
+            "name": "PRINCÍPIOS DE ROBÓTICA EDUCACIONAL",
+            "code": "103187",
+            "department": 650,
+            "credits": "000-004-000-000"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 110,
+        "fields": {
+            "name": "PRÁTICA DE FÍSICA DOS DISPOSITIVOS ELETRÔNICOS",
+            "code": "120936",
+            "department": 650,
+            "credits": "000-002-000-002"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 111,
+        "fields": {
+            "name": "PROCESSAMENTO DE SINAIS BIOLÓGICOS",
+            "code": "102440",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 112,
+        "fields": {
+            "name": "PROCESSOS PETROQUÍMICOS",
+            "code": "107468",
+            "department": 650,
+            "credits": "004-000-000-000"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 113,
+        "fields": {
+            "name": "ESTRUTURAS DE DADOS 1",
+            "code": "193704",
+            "department": 650,
+            "credits": "000-004-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 114,
+        "fields": {
+            "name": "PROGRAMAÇÃO PARA SISTEMAS PARALELOS E DISTRIÍDOS",
+            "code": "206610",
+            "department": 650,
+            "credits": "002-002-000-000"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 115,
+        "fields": {
+            "name": "PROPULSÃO AEROESPACIAL",
+            "code": "110108",
+            "department": 650,
+            "credits": "005-001-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 116,
+        "fields": {
+            "name": "PROJETO DE SISTEMAS AEROESPACIAIS",
+            "code": "108499",
+            "department": 650,
+            "credits": "005-001-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 117,
+        "fields": {
+            "name": "REQUISITOS DE SOFTWARE",
+            "code": "201308",
+            "department": 650,
+            "credits": "002-002-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 118,
+        "fields": {
+            "name": "PROJETO DE CIRCUITOS INTEGRADOS DIGITAIS",
+            "code": "203831",
+            "department": 650,
+            "credits": "002-002-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 119,
+        "fields": {
+            "name": "SISTEMAS DE CONTROLE",
+            "code": "203793",
+            "department": 650,
+            "credits": "004-000-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 120,
+        "fields": {
+            "name": "PROJETO INTEGRADOR DE ENGENHARIA 1",
+            "code": "193861",
+            "department": 650,
+            "credits": "000-004-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 121,
+        "fields": {
+            "name": "SISTEMAS AUTOMOTIVOS",
+            "code": "199168",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 122,
+        "fields": {
+            "name": "PROPULSÃO QUÍMICA",
+            "code": "117676",
+            "department": 650,
+            "credits": "003-001-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 123,
+        "fields": {
+            "name": "QUIMICA GERAL TEORICA",
+            "code": "114626",
+            "department": 650,
+            "credits": "004-000-000-000"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 124,
+        "fields": {
+            "name": "PRINCÍPIOS DE COMUNICAÇÃO PARA ENGENHARIA",
+            "code": "120839",
+            "department": 650,
+            "credits": "004-001-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 125,
+        "fields": {
+            "name": "PROCESSAMENTO DIGITAL DE IMAGENS",
+            "code": "102458",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 126,
+        "fields": {
+            "name": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+            "code": "119466",
+            "department": 650,
+            "credits": "000-002-000-002"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 127,
+        "fields": {
+            "name": "PROBABILIDADE E ESTATÍSTICA APLICADO A ENGENHARIA",
+            "code": "195332",
+            "department": 650,
+            "credits": "004-000-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 128,
+        "fields": {
+            "name": "PROPULSÃO AERONÁUTICA",
+            "code": "117668",
+            "department": 650,
+            "credits": "003-001-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 129,
+        "fields": {
+            "name": "SISTEMAS DE ENERGIA SOLAR E EÓLICA",
+            "code": "102865",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 130,
+        "fields": {
+            "name": "PRODUTIVIDADE E PROFISSIONALISMO EM ENGENHARIA DE SOFTWARE",
+            "code": "208663",
+            "department": 650,
+            "credits": "002-002-000-000"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 131,
+        "fields": {
+            "name": "PROJETO DE ALGORITMOS",
+            "code": "130508",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 132,
+        "fields": {
+            "name": "PROJETO DE SISTEMAS AUTOMOTIVOS",
+            "code": "206261",
+            "department": 650,
+            "credits": "002-002-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 133,
+        "fields": {
+            "name": "SINAIS E SISTEMAS PARA ENGENHARIA",
+            "code": "120952",
+            "department": 650,
+            "credits": "004-002-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 134,
+        "fields": {
+            "name": "SISTEMAS DE BANCO DE DADOS 1",
+            "code": "193631",
+            "department": 650,
+            "credits": "002-002-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 135,
+        "fields": {
+            "name": "PROJETO DE ELEMENTOS AUTOMOTIVOS",
+            "code": "203742",
+            "department": 650,
+            "credits": "005-001-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 136,
+        "fields": {
+            "name": "PROJETO INTEGRADOR DE ENGENHARIA 2",
+            "code": "208175",
+            "department": 650,
+            "credits": "000-006-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 137,
+        "fields": {
+            "name": "QUALIDADE DE SOFTWARE 1",
+            "code": "208698",
+            "department": 650,
+            "credits": "002-002-000-000"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 138,
+        "fields": {
+            "name": "SISTEMAS DE CONTROLE AUTOMOTIVO",
+            "code": "104876",
+            "department": 650,
+            "credits": "004-000-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 139,
+        "fields": {
+            "name": "QUÍMICA ORGÂNICA APLICADA À ENGENHARIA",
+            "code": "121533",
+            "department": 650,
+            "credits": "003-001-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 140,
+        "fields": {
+            "name": "TECNOLOGIAS DE FABRICAÇÃO 1",
+            "code": "113778",
+            "department": 650,
+            "credits": "002-002-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 141,
+        "fields": {
+            "name": "SISTEMAS HIDROELÉTRICOS",
+            "code": "208191",
+            "department": 650,
+            "credits": "004-001-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 142,
+        "fields": {
+            "name": "TEORIA DE CIRCUITOS ELETRÔNICOS 2",
+            "code": "119130",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 143,
+        "fields": {
+            "name": "TEORIA DE ELETROMAGNETISMO",
+            "code": "128554",
+            "department": 650,
+            "credits": "004-000-000-000"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 144,
+        "fields": {
+            "name": "SISTEMAS DE INFORMAÇÃO GEOGRÁFICA PARA ENGENHARIA",
+            "code": "128180",
+            "department": 650,
+            "credits": "004-000-000-000"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 145,
+        "fields": {
+            "name": "TEORIA DE FÍSICA DOS DISPOSITIVOS ELETRÔNICOS",
+            "code": "120944",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 146,
+        "fields": {
+            "name": "TERMODINAMICA 1",
+            "code": "168009",
+            "department": 650,
+            "credits": "004-000-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 147,
+        "fields": {
+            "name": "TÓPICOS ESPECIAIS 4 EM ENGENHARIA AEROESPACIAL",
+            "code": "129119",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 148,
+        "fields": {
+            "name": "TÓPICOS ESPECIAIS EM PROGRAMAÇÃO",
+            "code": "110141",
+            "department": 650,
+            "credits": "004-000-000-000"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 149,
+        "fields": {
+            "name": "TÓPICOS ESPECIAIS EM ENGENHARIA AEROESPACIAL",
+            "code": "104761",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 150,
+        "fields": {
+            "name": "TRANSFERENCIA DE CALOR",
+            "code": "168033",
+            "department": 650,
+            "credits": "005-001-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 151,
+        "fields": {
+            "name": "SISTEMAS OPERACIONAIS EMBARCADOS",
+            "code": "120961",
+            "department": 650,
+            "credits": "004-002-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 152,
+        "fields": {
+            "name": "TECNOLOGIAS DE FABRICAÇÃO 2",
+            "code": "113786",
+            "department": 650,
+            "credits": "002-002-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 153,
+        "fields": {
+            "name": "TEORIA DE CIRCUITOS ELETRÔNICOS 3",
+            "code": "120928",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 154,
+        "fields": {
+            "name": "TEORIA DE ELETRÔNICA DIGITAL 1",
+            "code": "119482",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 155,
+        "fields": {
+            "name": "SISTEMAS HIDRÁULICOS E PNEUMÁTICOS",
+            "code": "208621",
+            "department": 650,
+            "credits": "002-002-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 156,
+        "fields": {
+            "name": "TEORIA DE MATERIAIS DE CONSTRUÇÃO",
+            "code": "119865",
+            "department": 650,
+            "credits": "003-000-000-003"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 157,
+        "fields": {
+            "name": "TESTES DE SOFTWARE",
+            "code": "206580",
+            "department": 650,
+            "credits": "002-002-000-000"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 158,
+        "fields": {
+            "name": "TÓPICOS ESPECIAIS DE ENGENHARIA DE SOFTWARE",
+            "code": "193623",
+            "department": 650,
+            "credits": "002-002-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 159,
+        "fields": {
+            "name": "TÓPICOS ESPECIAIS EM ENGENHARIA AUTOMOTIVA",
+            "code": "203947",
+            "department": 650,
+            "credits": "004-000-000-000"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 160,
+        "fields": {
+            "name": "TRANSMISSÃO E DISTRIBUIÇÃO DE ENERGIA ELÉTRICA",
+            "code": "208299",
+            "department": 650,
+            "credits": "004-001-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 161,
+        "fields": {
+            "name": "TÉCNICAS DE PROGRAMAÇÃO EM PLATAFORMAS EMERGENTES",
+            "code": "206601",
+            "department": 650,
+            "credits": "002-002-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 162,
+        "fields": {
+            "name": "TEORIA DE CIRCUITOS ELETRÔNICOS 1",
+            "code": "118991",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 163,
+        "fields": {
+            "name": "TEORIA DE ELETRICIDADE APLICADA",
+            "code": "120693",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 164,
+        "fields": {
+            "name": "TEORIA DE ELETRÔNICA DIGITAL 2",
+            "code": "119491",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 165,
+        "fields": {
+            "name": "TEORIA DE SISTEMAS DE CONVERSÃO DE ENERGIA",
+            "code": "120715",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 166,
+        "fields": {
+            "name": "TÓPICOS ESPECIAIS EM ELETRONICA",
+            "code": "208281",
+            "department": 650,
+            "credits": "004-000-000-004"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 167,
+        "fields": {
+            "name": "TÓPICOS ESPECIAIS 2 EM ENGENHARIA AEROESPACIAL",
+            "code": "121576",
+            "department": 650,
+            "credits": "004-000-000-006"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 168,
+        "fields": {
+            "name": "TÓPICOS ESPECIAIS EM JOGOS DIGITAIS",
+            "code": "107409",
+            "department": 650,
+            "credits": "004-000-000-000"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 169,
+        "fields": {
+            "name": "TRABALHO DE CONCLUSÃO DE CURSO 1",
+            "code": "101141",
+            "department": 650,
+            "credits": "000-004-000-008"
+        }
+    },
+    {
+        "model": "offers.discipline",
+        "pk": 170,
+        "fields": {
+            "name": "TRABALHO DE CONCLUSÃO DE CURSO 2",
+            "code": "102415",
+            "department": 650,
+            "credits": "000-006-000-012"
+        }
+    }
+]

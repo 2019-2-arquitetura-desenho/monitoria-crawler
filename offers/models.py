@@ -5,7 +5,7 @@ class Discipline(models.Model):
     name = models.CharField(max_length=250)
     code = models.IntegerField()
     department = models.IntegerField()
-    credits = models.SmallIntegerField()
+    credits = models.CharField(max_length=250)
 
 
 class Professor(models.Model):
