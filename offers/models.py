@@ -15,7 +15,8 @@ class DisciplineClass(models.Model):
     name = models.CharField(max_length=5)
     vacancies = models.SmallIntegerField()
     discipline = models.ForeignKey(
-        'Discipline',
+        Discipline,
+        related_name = 'discipline_class',
         on_delete=models.CASCADE
     )
     shift = models.CharField(max_length=250)
@@ -38,7 +39,8 @@ class Alocation(models.Model):
 
 class Meeting(models.Model):
     discipline_class = models.ForeignKey(
-        'DisciplineClass',
+        DisciplineClass,
+        related_name = 'meetings',
         on_delete=models.CASCADE
     )
     day = models.CharField(max_length=50)
