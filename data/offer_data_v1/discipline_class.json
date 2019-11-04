@@ -1,0 +1,6510 @@
+[
+    {
+        "model": "offers.disciplineclass",
+        "pk": 1,
+        "fields": {
+            "name": "A",
+            "vacancies": 30,
+            "shift": "Diurno",
+            "discipline": 1,
+            "teachers": [
+                1,
+                2
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 2,
+        "fields": {
+            "name": "B",
+            "vacancies": 30,
+            "shift": "Diurno",
+            "discipline": 1,
+            "teachers": [
+                1,
+                2
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 3,
+        "fields": {
+            "name": "A",
+            "vacancies": 30,
+            "shift": "Diurno",
+            "discipline": 2,
+            "teachers": [
+                3
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 4,
+        "fields": {
+            "name": "A",
+            "vacancies": 15,
+            "shift": "Diurno",
+            "discipline": 3,
+            "teachers": [
+                4
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 5,
+        "fields": {
+            "name": "A",
+            "vacancies": 80,
+            "shift": "Diurno",
+            "discipline": 4,
+            "teachers": [
+                5
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 6,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 5,
+            "teachers": [
+                6
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 7,
+        "fields": {
+            "name": "A",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 6,
+            "teachers": [
+                7
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 8,
+        "fields": {
+            "name": "B",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 6,
+            "teachers": [
+                8,
+                7
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 9,
+        "fields": {
+            "name": "C",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 6,
+            "teachers": [
+                4,
+                8
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 10,
+        "fields": {
+            "name": "D",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 6,
+            "teachers": [
+                7
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 11,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 7,
+            "teachers": [
+                9
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 12,
+        "fields": {
+            "name": "A",
+            "vacancies": 50,
+            "shift": "Diurno",
+            "discipline": 8,
+            "teachers": [
+                10
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 13,
+        "fields": {
+            "name": "A",
+            "vacancies": 65,
+            "shift": "Diurno",
+            "discipline": 9,
+            "teachers": [
+                5
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 14,
+        "fields": {
+            "name": "A",
+            "vacancies": 130,
+            "shift": "Ambos",
+            "discipline": 10,
+            "teachers": [
+                11
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 15,
+        "fields": {
+            "name": "B",
+            "vacancies": 130,
+            "shift": "Ambos",
+            "discipline": 10,
+            "teachers": [
+                12
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 16,
+        "fields": {
+            "name": "C",
+            "vacancies": 130,
+            "shift": "Ambos",
+            "discipline": 10,
+            "teachers": [
+                13
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 17,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 11,
+            "teachers": [
+                14
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 18,
+        "fields": {
+            "name": "AA",
+            "vacancies": 110,
+            "shift": "Diurno",
+            "discipline": 12,
+            "teachers": [
+                15
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 19,
+        "fields": {
+            "name": "BB",
+            "vacancies": 100,
+            "shift": "Diurno",
+            "discipline": 12,
+            "teachers": [
+                16
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 20,
+        "fields": {
+            "name": "A",
+            "vacancies": 15,
+            "shift": "Diurno",
+            "discipline": 13,
+            "teachers": [
+                17
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 21,
+        "fields": {
+            "name": "A",
+            "vacancies": 60,
+            "shift": "Diurno",
+            "discipline": 14,
+            "teachers": [
+                18
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 22,
+        "fields": {
+            "name": "A",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 15,
+            "teachers": [
+                19
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 23,
+        "fields": {
+            "name": "B",
+            "vacancies": 65,
+            "shift": "Diurno",
+            "discipline": 15,
+            "teachers": [
+                20
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 24,
+        "fields": {
+            "name": "CC",
+            "vacancies": 24,
+            "shift": "Diurno",
+            "discipline": 16,
+            "teachers": [
+                21
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 25,
+        "fields": {
+            "name": "DD",
+            "vacancies": 24,
+            "shift": "Diurno",
+            "discipline": 16,
+            "teachers": [
+                22
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 26,
+        "fields": {
+            "name": "EE",
+            "vacancies": 24,
+            "shift": "Diurno",
+            "discipline": 16,
+            "teachers": [
+                22
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 27,
+        "fields": {
+            "name": "FF",
+            "vacancies": 24,
+            "shift": "Diurno",
+            "discipline": 16,
+            "teachers": [
+                22,
+                23
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 28,
+        "fields": {
+            "name": "GG",
+            "vacancies": 24,
+            "shift": "Diurno",
+            "discipline": 16,
+            "teachers": [
+                22,
+                23
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 29,
+        "fields": {
+            "name": "HH",
+            "vacancies": 24,
+            "shift": "Ambos",
+            "discipline": 16,
+            "teachers": [
+                24
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 30,
+        "fields": {
+            "name": "II",
+            "vacancies": 24,
+            "shift": "Diurno",
+            "discipline": 16,
+            "teachers": [
+                24
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 31,
+        "fields": {
+            "name": "JJ",
+            "vacancies": 24,
+            "shift": "Diurno",
+            "discipline": 16,
+            "teachers": [
+                25
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 32,
+        "fields": {
+            "name": "KK",
+            "vacancies": 24,
+            "shift": "Diurno",
+            "discipline": 16,
+            "teachers": [
+                25
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 33,
+        "fields": {
+            "name": "LL",
+            "vacancies": 24,
+            "shift": "Ambos",
+            "discipline": 16,
+            "teachers": [
+                21
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 34,
+        "fields": {
+            "name": "MM",
+            "vacancies": 24,
+            "shift": "Diurno",
+            "discipline": 16,
+            "teachers": [
+                26
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 35,
+        "fields": {
+            "name": "NN",
+            "vacancies": 24,
+            "shift": "Diurno",
+            "discipline": 16,
+            "teachers": [
+                27
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 36,
+        "fields": {
+            "name": "OO",
+            "vacancies": 24,
+            "shift": "Diurno",
+            "discipline": 16,
+            "teachers": [
+                28
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 37,
+        "fields": {
+            "name": "PP",
+            "vacancies": 24,
+            "shift": "Diurno",
+            "discipline": 16,
+            "teachers": [
+                29
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 38,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 17,
+            "teachers": [
+                30
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 39,
+        "fields": {
+            "name": "A",
+            "vacancies": 30,
+            "shift": "Diurno",
+            "discipline": 18,
+            "teachers": [
+                31
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 40,
+        "fields": {
+            "name": "A",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 19,
+            "teachers": [
+                32
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 41,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 20,
+            "teachers": [
+                33
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 42,
+        "fields": {
+            "name": "A",
+            "vacancies": 15,
+            "shift": "Diurno",
+            "discipline": 21,
+            "teachers": [
+                34,
+                1
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 43,
+        "fields": {
+            "name": "A",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 22,
+            "teachers": [
+                31
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 44,
+        "fields": {
+            "name": "A",
+            "vacancies": 192,
+            "shift": "Diurno",
+            "discipline": 23,
+            "teachers": [
+                35
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 45,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 24,
+            "teachers": [
+                36
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 46,
+        "fields": {
+            "name": "A",
+            "vacancies": 120,
+            "shift": "Diurno",
+            "discipline": 25,
+            "teachers": [
+                37
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 47,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 26,
+            "teachers": [
+                38
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 48,
+        "fields": {
+            "name": "A",
+            "vacancies": 25,
+            "shift": "Diurno",
+            "discipline": 27,
+            "teachers": [
+                39
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 49,
+        "fields": {
+            "name": "A",
+            "vacancies": 120,
+            "shift": "Diurno",
+            "discipline": 28,
+            "teachers": [
+                40
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 50,
+        "fields": {
+            "name": "B",
+            "vacancies": 65,
+            "shift": "Diurno",
+            "discipline": 28,
+            "teachers": [
+                6
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 51,
+        "fields": {
+            "name": "C",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 28,
+            "teachers": [
+                41
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 52,
+        "fields": {
+            "name": "A",
+            "vacancies": 100,
+            "shift": "Diurno",
+            "discipline": 29,
+            "teachers": [
+                9
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 53,
+        "fields": {
+            "name": "B",
+            "vacancies": 60,
+            "shift": "Diurno",
+            "discipline": 29,
+            "teachers": [
+                9
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 54,
+        "fields": {
+            "name": "E",
+            "vacancies": 30,
+            "shift": "Diurno",
+            "discipline": 30,
+            "teachers": [
+                39,
+                27
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 55,
+        "fields": {
+            "name": "F",
+            "vacancies": 30,
+            "shift": "Diurno",
+            "discipline": 30,
+            "teachers": [
+                39,
+                27
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 56,
+        "fields": {
+            "name": "G",
+            "vacancies": 30,
+            "shift": "Ambos",
+            "discipline": 30,
+            "teachers": [
+                39,
+                27
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 57,
+        "fields": {
+            "name": "H",
+            "vacancies": 30,
+            "shift": "Diurno",
+            "discipline": 30,
+            "teachers": [
+                39,
+                27
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 58,
+        "fields": {
+            "name": "AA",
+            "vacancies": 135,
+            "shift": "Diurno",
+            "discipline": 31,
+            "teachers": [
+                42
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 59,
+        "fields": {
+            "name": "BB",
+            "vacancies": 133,
+            "shift": "Diurno",
+            "discipline": 31,
+            "teachers": [
+                23,
+                43
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 60,
+        "fields": {
+            "name": "CC",
+            "vacancies": 130,
+            "shift": "Diurno",
+            "discipline": 31,
+            "teachers": [
+                43
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 61,
+        "fields": {
+            "name": "A",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 32,
+            "teachers": [
+                44
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 62,
+        "fields": {
+            "name": "A",
+            "vacancies": 60,
+            "shift": "Diurno",
+            "discipline": 33,
+            "teachers": [
+                45
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 63,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 34,
+            "teachers": [
+                46
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 64,
+        "fields": {
+            "name": "A",
+            "vacancies": 60,
+            "shift": "Diurno",
+            "discipline": 35,
+            "teachers": [
+                47
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 65,
+        "fields": {
+            "name": "A",
+            "vacancies": 50,
+            "shift": "Diurno",
+            "discipline": 36,
+            "teachers": [
+                48
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 66,
+        "fields": {
+            "name": "A",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 37,
+            "teachers": [
+                49,
+                48
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 67,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 38,
+            "teachers": [
+                50
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 68,
+        "fields": {
+            "name": "A",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 39,
+            "teachers": [
+                51
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 69,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 40,
+            "teachers": [
+                52,
+                53
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 70,
+        "fields": {
+            "name": "A",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 41,
+            "teachers": [
+                54
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 71,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 42,
+            "teachers": [
+                55
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 72,
+        "fields": {
+            "name": "A",
+            "vacancies": 70,
+            "shift": "Diurno",
+            "discipline": 43,
+            "teachers": [
+                56,
+                57
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 73,
+        "fields": {
+            "name": "B",
+            "vacancies": 70,
+            "shift": "Diurno",
+            "discipline": 43,
+            "teachers": [
+                58
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 74,
+        "fields": {
+            "name": "C",
+            "vacancies": 70,
+            "shift": "Diurno",
+            "discipline": 43,
+            "teachers": [
+                56
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 75,
+        "fields": {
+            "name": "D",
+            "vacancies": 70,
+            "shift": "Diurno",
+            "discipline": 43,
+            "teachers": [
+                59
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 76,
+        "fields": {
+            "name": "E",
+            "vacancies": 70,
+            "shift": "Diurno",
+            "discipline": 43,
+            "teachers": [
+                10
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 77,
+        "fields": {
+            "name": "F",
+            "vacancies": 65,
+            "shift": "Diurno",
+            "discipline": 43,
+            "teachers": [
+                29
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 78,
+        "fields": {
+            "name": "O",
+            "vacancies": 130,
+            "shift": "Ambos",
+            "discipline": 44,
+            "teachers": [
+                21
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 79,
+        "fields": {
+            "name": "P",
+            "vacancies": 130,
+            "shift": "Ambos",
+            "discipline": 44,
+            "teachers": [
+                22
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 80,
+        "fields": {
+            "name": "Q",
+            "vacancies": 130,
+            "shift": "Diurno",
+            "discipline": 44,
+            "teachers": [
+                24
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 81,
+        "fields": {
+            "name": "AA",
+            "vacancies": 65,
+            "shift": "Diurno",
+            "discipline": 45,
+            "teachers": [
+                60
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 82,
+        "fields": {
+            "name": "BB",
+            "vacancies": 65,
+            "shift": "Diurno",
+            "discipline": 45,
+            "teachers": [
+                61
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 83,
+        "fields": {
+            "name": "CC",
+            "vacancies": 65,
+            "shift": "Diurno",
+            "discipline": 45,
+            "teachers": [
+                62
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 84,
+        "fields": {
+            "name": "DD",
+            "vacancies": 65,
+            "shift": "Diurno",
+            "discipline": 45,
+            "teachers": [
+                63,
+                64
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 85,
+        "fields": {
+            "name": "EE",
+            "vacancies": 65,
+            "shift": "Diurno",
+            "discipline": 45,
+            "teachers": [
+                63,
+                64
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 86,
+        "fields": {
+            "name": "FF",
+            "vacancies": 65,
+            "shift": "Diurno",
+            "discipline": 45,
+            "teachers": [
+                62
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 87,
+        "fields": {
+            "name": "AA",
+            "vacancies": 135,
+            "shift": "Diurno",
+            "discipline": 46,
+            "teachers": [
+                65
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 88,
+        "fields": {
+            "name": "BB",
+            "vacancies": 60,
+            "shift": "Diurno",
+            "discipline": 46,
+            "teachers": [
+                66,
+                43,
+                67
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 89,
+        "fields": {
+            "name": "CC",
+            "vacancies": 135,
+            "shift": "Diurno",
+            "discipline": 46,
+            "teachers": [
+                68
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 90,
+        "fields": {
+            "name": "DD",
+            "vacancies": 130,
+            "shift": "Diurno",
+            "discipline": 46,
+            "teachers": [
+                43
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 91,
+        "fields": {
+            "name": "A",
+            "vacancies": 80,
+            "shift": "Diurno",
+            "discipline": 47,
+            "teachers": [
+                20
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 92,
+        "fields": {
+            "name": "A",
+            "vacancies": 60,
+            "shift": "Diurno",
+            "discipline": 48,
+            "teachers": [
+                69
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 93,
+        "fields": {
+            "name": "B",
+            "vacancies": 65,
+            "shift": "Diurno",
+            "discipline": 48,
+            "teachers": [
+                70
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 94,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 49,
+            "teachers": [
+                71
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 95,
+        "fields": {
+            "name": "B",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 49,
+            "teachers": [
+                72
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 96,
+        "fields": {
+            "name": "A",
+            "vacancies": 25,
+            "shift": "Ambos",
+            "discipline": 50,
+            "teachers": [
+                12
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 97,
+        "fields": {
+            "name": "A",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 51,
+            "teachers": [
+                73
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 98,
+        "fields": {
+            "name": "A",
+            "vacancies": 15,
+            "shift": "Diurno",
+            "discipline": 52,
+            "teachers": [
+                74,
+                2
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 99,
+        "fields": {
+            "name": "B",
+            "vacancies": 15,
+            "shift": "Diurno",
+            "discipline": 52,
+            "teachers": [
+                74,
+                2
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 100,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 53,
+            "teachers": [
+                75
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 101,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 54,
+            "teachers": [
+                76
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 102,
+        "fields": {
+            "name": "A",
+            "vacancies": 80,
+            "shift": "Ambos",
+            "discipline": 55,
+            "teachers": [
+                40
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 103,
+        "fields": {
+            "name": "B",
+            "vacancies": 90,
+            "shift": "Ambos",
+            "discipline": 55,
+            "teachers": [
+                55
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 104,
+        "fields": {
+            "name": "C",
+            "vacancies": 80,
+            "shift": "Ambos",
+            "discipline": 55,
+            "teachers": [
+                36
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 105,
+        "fields": {
+            "name": "AA",
+            "vacancies": 120,
+            "shift": "Ambos",
+            "discipline": 56,
+            "teachers": [
+                65,
+                35,
+                43
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 106,
+        "fields": {
+            "name": "BB",
+            "vacancies": 135,
+            "shift": "Ambos",
+            "discipline": 56,
+            "teachers": [
+                65
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 107,
+        "fields": {
+            "name": "CC",
+            "vacancies": 120,
+            "shift": "Diurno",
+            "discipline": 56,
+            "teachers": [
+                66
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 108,
+        "fields": {
+            "name": "DD",
+            "vacancies": 132,
+            "shift": "Diurno",
+            "discipline": 56,
+            "teachers": [
+                16
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 109,
+        "fields": {
+            "name": "A",
+            "vacancies": 42,
+            "shift": "Diurno",
+            "discipline": 57,
+            "teachers": [
+                47
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 110,
+        "fields": {
+            "name": "A",
+            "vacancies": 66,
+            "shift": "Diurno",
+            "discipline": 58,
+            "teachers": [
+                77
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 111,
+        "fields": {
+            "name": "B",
+            "vacancies": 40,
+            "shift": "Ambos",
+            "discipline": 58,
+            "teachers": [
+                77
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 112,
+        "fields": {
+            "name": "A",
+            "vacancies": 15,
+            "shift": "Diurno",
+            "discipline": 59,
+            "teachers": [
+                78
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 113,
+        "fields": {
+            "name": "B",
+            "vacancies": 15,
+            "shift": "Diurno",
+            "discipline": 59,
+            "teachers": [
+                78
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 114,
+        "fields": {
+            "name": "C",
+            "vacancies": 15,
+            "shift": "Diurno",
+            "discipline": 59,
+            "teachers": [
+                79
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 115,
+        "fields": {
+            "name": "D",
+            "vacancies": 15,
+            "shift": "Diurno",
+            "discipline": 59,
+            "teachers": [
+                79
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 116,
+        "fields": {
+            "name": "E",
+            "vacancies": 15,
+            "shift": "Diurno",
+            "discipline": 59,
+            "teachers": [
+                79
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 117,
+        "fields": {
+            "name": "F",
+            "vacancies": 15,
+            "shift": "Diurno",
+            "discipline": 59,
+            "teachers": [
+                79
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 118,
+        "fields": {
+            "name": "G",
+            "vacancies": 15,
+            "shift": "Diurno",
+            "discipline": 59,
+            "teachers": [
+                78
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 119,
+        "fields": {
+            "name": "H",
+            "vacancies": 15,
+            "shift": "Diurno",
+            "discipline": 59,
+            "teachers": [
+                78
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 120,
+        "fields": {
+            "name": "I",
+            "vacancies": 15,
+            "shift": "Diurno",
+            "discipline": 59,
+            "teachers": [
+                78
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 121,
+        "fields": {
+            "name": "J",
+            "vacancies": 15,
+            "shift": "Diurno",
+            "discipline": 59,
+            "teachers": [
+                78
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 122,
+        "fields": {
+            "name": "A",
+            "vacancies": 60,
+            "shift": "Diurno",
+            "discipline": 60,
+            "teachers": [
+                80
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 123,
+        "fields": {
+            "name": "B",
+            "vacancies": 115,
+            "shift": "Diurno",
+            "discipline": 60,
+            "teachers": [
+                81
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 124,
+        "fields": {
+            "name": "A",
+            "vacancies": 110,
+            "shift": "Diurno",
+            "discipline": 61,
+            "teachers": [
+                29
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 125,
+        "fields": {
+            "name": "B",
+            "vacancies": 60,
+            "shift": "Diurno",
+            "discipline": 61,
+            "teachers": [
+                82
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 126,
+        "fields": {
+            "name": "C",
+            "vacancies": 100,
+            "shift": "Diurno",
+            "discipline": 61,
+            "teachers": [
+                66
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 127,
+        "fields": {
+            "name": "D",
+            "vacancies": 42,
+            "shift": "Ambos",
+            "discipline": 61,
+            "teachers": [
+                83
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 128,
+        "fields": {
+            "name": "A",
+            "vacancies": 60,
+            "shift": "Diurno",
+            "discipline": 62,
+            "teachers": [
+                15
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 129,
+        "fields": {
+            "name": "A",
+            "vacancies": 100,
+            "shift": "Diurno",
+            "discipline": 63,
+            "teachers": [
+                35
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 130,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 64,
+            "teachers": [
+                84
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 131,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 65,
+            "teachers": [
+                85
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 132,
+        "fields": {
+            "name": "AA",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 66,
+            "teachers": [
+                74
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 133,
+        "fields": {
+            "name": "A",
+            "vacancies": 130,
+            "shift": "Ambos",
+            "discipline": 67,
+            "teachers": [
+                84
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 134,
+        "fields": {
+            "name": "B",
+            "vacancies": 130,
+            "shift": "Diurno",
+            "discipline": 67,
+            "teachers": [
+                42
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 135,
+        "fields": {
+            "name": "C",
+            "vacancies": 130,
+            "shift": "Diurno",
+            "discipline": 67,
+            "teachers": [
+                30
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 136,
+        "fields": {
+            "name": "A",
+            "vacancies": 50,
+            "shift": "Diurno",
+            "discipline": 68,
+            "teachers": [
+                58
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 137,
+        "fields": {
+            "name": "A",
+            "vacancies": 80,
+            "shift": "Diurno",
+            "discipline": 69,
+            "teachers": [
+                46
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 138,
+        "fields": {
+            "name": "B",
+            "vacancies": 46,
+            "shift": "Diurno",
+            "discipline": 69,
+            "teachers": [
+                32
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 139,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 70,
+            "teachers": [
+                25
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 140,
+        "fields": {
+            "name": "A",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 71,
+            "teachers": [
+                86
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 141,
+        "fields": {
+            "name": "A",
+            "vacancies": 25,
+            "shift": "Diurno",
+            "discipline": 72,
+            "teachers": [
+                26
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 142,
+        "fields": {
+            "name": "A",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 73,
+            "teachers": [
+                71
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 143,
+        "fields": {
+            "name": "B",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 73,
+            "teachers": [
+                72
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 144,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 74,
+            "teachers": [
+                26
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 145,
+        "fields": {
+            "name": "A",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 75,
+            "teachers": [
+                87
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 146,
+        "fields": {
+            "name": "B",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 75,
+            "teachers": [
+                88
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 147,
+        "fields": {
+            "name": "C",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 75,
+            "teachers": [
+                88
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 148,
+        "fields": {
+            "name": "D",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 75,
+            "teachers": [
+                89
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 149,
+        "fields": {
+            "name": "E",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 75,
+            "teachers": [
+                89
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 150,
+        "fields": {
+            "name": "F",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 75,
+            "teachers": [
+                90
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 151,
+        "fields": {
+            "name": "G",
+            "vacancies": 11,
+            "shift": "Diurno",
+            "discipline": 75,
+            "teachers": [
+                87
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 152,
+        "fields": {
+            "name": "A",
+            "vacancies": 75,
+            "shift": "Diurno",
+            "discipline": 76,
+            "teachers": [
+                81
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 153,
+        "fields": {
+            "name": "A",
+            "vacancies": 60,
+            "shift": "Diurno",
+            "discipline": 77,
+            "teachers": [
+                91
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 154,
+        "fields": {
+            "name": "AA",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 78,
+            "teachers": [
+                1
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 155,
+        "fields": {
+            "name": "A",
+            "vacancies": 40,
+            "shift": "Ambos",
+            "discipline": 79,
+            "teachers": [
+                69
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 156,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 80,
+            "teachers": [
+                92
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 157,
+        "fields": {
+            "name": "A",
+            "vacancies": 65,
+            "shift": "Diurno",
+            "discipline": 81,
+            "teachers": [
+                93
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 158,
+        "fields": {
+            "name": "A",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 82,
+            "teachers": [
+                94
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 159,
+        "fields": {
+            "name": "A",
+            "vacancies": 30,
+            "shift": "Diurno",
+            "discipline": 83,
+            "teachers": [
+                95
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 160,
+        "fields": {
+            "name": "A",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 84,
+            "teachers": [
+                7
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 161,
+        "fields": {
+            "name": "B",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 84,
+            "teachers": [
+                4
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 162,
+        "fields": {
+            "name": "C",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 84,
+            "teachers": [
+                34,
+                7
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 163,
+        "fields": {
+            "name": "D",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 84,
+            "teachers": [
+                96
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 164,
+        "fields": {
+            "name": "A",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 85,
+            "teachers": [
+                96
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 165,
+        "fields": {
+            "name": "B",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 85,
+            "teachers": [
+                96
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 166,
+        "fields": {
+            "name": "A",
+            "vacancies": 60,
+            "shift": "Diurno",
+            "discipline": 86,
+            "teachers": [
+                97
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 167,
+        "fields": {
+            "name": "A",
+            "vacancies": 120,
+            "shift": "Diurno",
+            "discipline": 87,
+            "teachers": [
+                54
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 168,
+        "fields": {
+            "name": "B",
+            "vacancies": 80,
+            "shift": "Diurno",
+            "discipline": 87,
+            "teachers": [
+                86
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 169,
+        "fields": {
+            "name": "A",
+            "vacancies": 70,
+            "shift": "Diurno",
+            "discipline": 88,
+            "teachers": [
+                91
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 170,
+        "fields": {
+            "name": "B",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 88,
+            "teachers": [
+                18
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 171,
+        "fields": {
+            "name": "C",
+            "vacancies": 40,
+            "shift": "Ambos",
+            "discipline": 88,
+            "teachers": [
+                98
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 172,
+        "fields": {
+            "name": "A",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 89,
+            "teachers": [
+                99
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 173,
+        "fields": {
+            "name": "B",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 89,
+            "teachers": [
+                99
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 174,
+        "fields": {
+            "name": "C",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 89,
+            "teachers": [
+                99
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 175,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Ambos",
+            "discipline": 90,
+            "teachers": [
+                79,
+                78
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 176,
+        "fields": {
+            "name": "A",
+            "vacancies": 22,
+            "shift": "Diurno",
+            "discipline": 91,
+            "teachers": [
+                95
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 177,
+        "fields": {
+            "name": "B",
+            "vacancies": 22,
+            "shift": "Diurno",
+            "discipline": 91,
+            "teachers": [
+                95
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 178,
+        "fields": {
+            "name": "A",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 92,
+            "teachers": [
+                100
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 179,
+        "fields": {
+            "name": "B",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 92,
+            "teachers": [
+                100
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 180,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 93,
+            "teachers": [
+                101
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 181,
+        "fields": {
+            "name": "A",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 94,
+            "teachers": [
+                102
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 182,
+        "fields": {
+            "name": "B",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 94,
+            "teachers": [
+                102
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 183,
+        "fields": {
+            "name": "A",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                38
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 184,
+        "fields": {
+            "name": "AA",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                46
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 185,
+        "fields": {
+            "name": "AB",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                95
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 186,
+        "fields": {
+            "name": "AC",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                82
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 187,
+        "fields": {
+            "name": "AD",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                76
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 188,
+        "fields": {
+            "name": "AE",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                103
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 189,
+        "fields": {
+            "name": "AF",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                25
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 190,
+        "fields": {
+            "name": "AG",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                1
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 191,
+        "fields": {
+            "name": "AH",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                104
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 192,
+        "fields": {
+            "name": "B",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                75
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 193,
+        "fields": {
+            "name": "BA",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                58
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 194,
+        "fields": {
+            "name": "BB",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                57
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 195,
+        "fields": {
+            "name": "BC",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                39
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 196,
+        "fields": {
+            "name": "C",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                39
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 197,
+        "fields": {
+            "name": "CA",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                88
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 198,
+        "fields": {
+            "name": "CB",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                44
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 199,
+        "fields": {
+            "name": "CC",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                17
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 200,
+        "fields": {
+            "name": "CD",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                35
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 201,
+        "fields": {
+            "name": "CE",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                8
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 202,
+        "fields": {
+            "name": "CF",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                30
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 203,
+        "fields": {
+            "name": "CG",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                6
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 204,
+        "fields": {
+            "name": "D",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                69
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 205,
+        "fields": {
+            "name": "DA",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                18
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 206,
+        "fields": {
+            "name": "DB",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                5
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 207,
+        "fields": {
+            "name": "DC",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                63
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 208,
+        "fields": {
+            "name": "DD",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                81
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 209,
+        "fields": {
+            "name": "DE",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                47
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 210,
+        "fields": {
+            "name": "DF",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                61
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 211,
+        "fields": {
+            "name": "DG",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                54
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 212,
+        "fields": {
+            "name": "DH",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                91
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 213,
+        "fields": {
+            "name": "DI",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                105
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 214,
+        "fields": {
+            "name": "DJ",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                106
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 215,
+        "fields": {
+            "name": "DK",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                107
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 216,
+        "fields": {
+            "name": "E",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                90
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 217,
+        "fields": {
+            "name": "EA",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                108
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 218,
+        "fields": {
+            "name": "EB",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                109
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 219,
+        "fields": {
+            "name": "EC",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                45
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 220,
+        "fields": {
+            "name": "ED",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                38
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 221,
+        "fields": {
+            "name": "EE",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                102
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 222,
+        "fields": {
+            "name": "EF",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                89
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 223,
+        "fields": {
+            "name": "EG",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                110
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 224,
+        "fields": {
+            "name": "EH",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                85
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 225,
+        "fields": {
+            "name": "EI",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                3
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 226,
+        "fields": {
+            "name": "EJ",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 95,
+            "teachers": [
+                111
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 227,
+        "fields": {
+            "name": "A",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 96,
+            "teachers": [
+                108
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 228,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Ambos",
+            "discipline": 97,
+            "teachers": [
+                112
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 229,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 98,
+            "teachers": [
+                109
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 230,
+        "fields": {
+            "name": "A",
+            "vacancies": 65,
+            "shift": "Diurno",
+            "discipline": 99,
+            "teachers": [
+                113
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 231,
+        "fields": {
+            "name": "A",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 100,
+            "teachers": [
+                75
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 232,
+        "fields": {
+            "name": "A",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 101,
+            "teachers": [
+                59
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 233,
+        "fields": {
+            "name": "A",
+            "vacancies": 15,
+            "shift": "Ambos",
+            "discipline": 102,
+            "teachers": [
+                11
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 234,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 103,
+            "teachers": [
+                114
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 235,
+        "fields": {
+            "name": "A",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 104,
+            "teachers": [
+                106
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 236,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 105,
+            "teachers": []
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 237,
+        "fields": {
+            "name": "A",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 106,
+            "teachers": [
+                2
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 238,
+        "fields": {
+            "name": "AA",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 107,
+            "teachers": [
+                115
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 239,
+        "fields": {
+            "name": "BB",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 107,
+            "teachers": [
+                116
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 240,
+        "fields": {
+            "name": "CC",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 107,
+            "teachers": [
+                17
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 241,
+        "fields": {
+            "name": "DD",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 107,
+            "teachers": [
+                48
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 242,
+        "fields": {
+            "name": "EE",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 107,
+            "teachers": [
+                116,
+                27
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 243,
+        "fields": {
+            "name": "FF",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 107,
+            "teachers": [
+                116,
+                27
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 244,
+        "fields": {
+            "name": "GG",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 107,
+            "teachers": [
+                44
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 245,
+        "fields": {
+            "name": "HH",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 107,
+            "teachers": [
+                115
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 246,
+        "fields": {
+            "name": "II",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 107,
+            "teachers": [
+                49
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 247,
+        "fields": {
+            "name": "JJ",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 107,
+            "teachers": [
+                49
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 248,
+        "fields": {
+            "name": "A",
+            "vacancies": 80,
+            "shift": "Diurno",
+            "discipline": 108,
+            "teachers": [
+                45
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 249,
+        "fields": {
+            "name": "B",
+            "vacancies": 65,
+            "shift": "Diurno",
+            "discipline": 108,
+            "teachers": [
+                45
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 250,
+        "fields": {
+            "name": "A",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 109,
+            "teachers": [
+                19,
+                47
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 251,
+        "fields": {
+            "name": "A",
+            "vacancies": 26,
+            "shift": "Diurno",
+            "discipline": 110,
+            "teachers": [
+                117
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 252,
+        "fields": {
+            "name": "B",
+            "vacancies": 26,
+            "shift": "Diurno",
+            "discipline": 110,
+            "teachers": [
+                112
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 253,
+        "fields": {
+            "name": "A",
+            "vacancies": 20,
+            "shift": "Ambos",
+            "discipline": 111,
+            "teachers": [
+                109
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 254,
+        "fields": {
+            "name": "A",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 112,
+            "teachers": [
+                116,
+                44
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 255,
+        "fields": {
+            "name": "A",
+            "vacancies": 60,
+            "shift": "Diurno",
+            "discipline": 113,
+            "teachers": [
+                70
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 256,
+        "fields": {
+            "name": "B",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 113,
+            "teachers": [
+                64
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 257,
+        "fields": {
+            "name": "C",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 113,
+            "teachers": [
+                60,
+                61
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 258,
+        "fields": {
+            "name": "A",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 114,
+            "teachers": [
+                80
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 259,
+        "fields": {
+            "name": "A",
+            "vacancies": 30,
+            "shift": "Ambos",
+            "discipline": 115,
+            "teachers": [
+                103
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 260,
+        "fields": {
+            "name": "A",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 116,
+            "teachers": [
+                118,
+                119
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 261,
+        "fields": {
+            "name": "A",
+            "vacancies": 60,
+            "shift": "Diurno",
+            "discipline": 117,
+            "teachers": [
+                93
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 262,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Ambos",
+            "discipline": 118,
+            "teachers": [
+                50
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 263,
+        "fields": {
+            "name": "A",
+            "vacancies": 60,
+            "shift": "Diurno",
+            "discipline": 119,
+            "teachers": [
+                110
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 264,
+        "fields": {
+            "name": "A",
+            "vacancies": 35,
+            "shift": "Diurno",
+            "discipline": 120,
+            "teachers": [
+                14
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 265,
+        "fields": {
+            "name": "B",
+            "vacancies": 35,
+            "shift": "Ambos",
+            "discipline": 120,
+            "teachers": [
+                118
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 266,
+        "fields": {
+            "name": "C",
+            "vacancies": 35,
+            "shift": "Diurno",
+            "discipline": 120,
+            "teachers": [
+                6,
+                27
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 267,
+        "fields": {
+            "name": "D",
+            "vacancies": 35,
+            "shift": "Diurno",
+            "discipline": 120,
+            "teachers": [
+                120
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 268,
+        "fields": {
+            "name": "E",
+            "vacancies": 35,
+            "shift": "Diurno",
+            "discipline": 120,
+            "teachers": [
+                105
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 269,
+        "fields": {
+            "name": "A",
+            "vacancies": 70,
+            "shift": "Diurno",
+            "discipline": 121,
+            "teachers": [
+                57
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 270,
+        "fields": {
+            "name": "A",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 122,
+            "teachers": [
+                119
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 271,
+        "fields": {
+            "name": "AA",
+            "vacancies": 120,
+            "shift": "Diurno",
+            "discipline": 123,
+            "teachers": [
+                49,
+                17
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 272,
+        "fields": {
+            "name": "BB",
+            "vacancies": 120,
+            "shift": "Diurno",
+            "discipline": 123,
+            "teachers": [
+                116,
+                27
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 273,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 124,
+            "teachers": [
+                51
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 274,
+        "fields": {
+            "name": "A",
+            "vacancies": 20,
+            "shift": "Ambos",
+            "discipline": 125,
+            "teachers": [
+                87
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 275,
+        "fields": {
+            "name": "A",
+            "vacancies": 15,
+            "shift": "Diurno",
+            "discipline": 126,
+            "teachers": [
+                101
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 276,
+        "fields": {
+            "name": "B",
+            "vacancies": 15,
+            "shift": "Diurno",
+            "discipline": 126,
+            "teachers": [
+                101
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 277,
+        "fields": {
+            "name": "C",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 126,
+            "teachers": [
+                110
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 278,
+        "fields": {
+            "name": "D",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 126,
+            "teachers": [
+                33
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 279,
+        "fields": {
+            "name": "E",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 126,
+            "teachers": [
+                33
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 280,
+        "fields": {
+            "name": "F",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 126,
+            "teachers": [
+                110
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 281,
+        "fields": {
+            "name": "G",
+            "vacancies": 15,
+            "shift": "Diurno",
+            "discipline": 126,
+            "teachers": [
+                92
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 282,
+        "fields": {
+            "name": "H",
+            "vacancies": 15,
+            "shift": "Diurno",
+            "discipline": 126,
+            "teachers": [
+                92
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 283,
+        "fields": {
+            "name": "A",
+            "vacancies": 130,
+            "shift": "Diurno",
+            "discipline": 127,
+            "teachers": [
+                121
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 284,
+        "fields": {
+            "name": "B",
+            "vacancies": 135,
+            "shift": "Diurno",
+            "discipline": 127,
+            "teachers": [
+                121
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 285,
+        "fields": {
+            "name": "A",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 128,
+            "teachers": [
+                103
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 286,
+        "fields": {
+            "name": "A",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 129,
+            "teachers": [
+                8
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 287,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 130,
+            "teachers": [
+                107
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 288,
+        "fields": {
+            "name": "A",
+            "vacancies": 65,
+            "shift": "Diurno",
+            "discipline": 131,
+            "teachers": [
+                19
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 289,
+        "fields": {
+            "name": "A",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 132,
+            "teachers": [
+                122
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 290,
+        "fields": {
+            "name": "A",
+            "vacancies": 80,
+            "shift": "Diurno",
+            "discipline": 133,
+            "teachers": [
+                90
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 291,
+        "fields": {
+            "name": "B",
+            "vacancies": 80,
+            "shift": "Diurno",
+            "discipline": 133,
+            "teachers": [
+                28
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 292,
+        "fields": {
+            "name": "A",
+            "vacancies": 33,
+            "shift": "Diurno",
+            "discipline": 134,
+            "teachers": [
+                106
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 293,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 135,
+            "teachers": [
+                52
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 294,
+        "fields": {
+            "name": "A",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 136,
+            "teachers": [
+                104
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 295,
+        "fields": {
+            "name": "B",
+            "vacancies": 15,
+            "shift": "Diurno",
+            "discipline": 136,
+            "teachers": [
+                4
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 296,
+        "fields": {
+            "name": "C",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 136,
+            "teachers": [
+                85,
+                38
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 297,
+        "fields": {
+            "name": "D",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 136,
+            "teachers": [
+                41
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 298,
+        "fields": {
+            "name": "E",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 136,
+            "teachers": []
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 299,
+        "fields": {
+            "name": "A",
+            "vacancies": 42,
+            "shift": "Diurno",
+            "discipline": 137,
+            "teachers": [
+                97
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 300,
+        "fields": {
+            "name": "A",
+            "vacancies": 10,
+            "shift": "Diurno",
+            "discipline": 138,
+            "teachers": [
+                123
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 301,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 139,
+            "teachers": [
+                115
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 302,
+        "fields": {
+            "name": "A",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 140,
+            "teachers": [
+                104
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 303,
+        "fields": {
+            "name": "A",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 141,
+            "teachers": [
+                1,
+                7
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 304,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 142,
+            "teachers": [
+                100
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 305,
+        "fields": {
+            "name": "A",
+            "vacancies": 100,
+            "shift": "Diurno",
+            "discipline": 143,
+            "teachers": [
+                124
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 306,
+        "fields": {
+            "name": "B",
+            "vacancies": 61,
+            "shift": "Diurno",
+            "discipline": 143,
+            "teachers": [
+                124
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 307,
+        "fields": {
+            "name": "A",
+            "vacancies": 15,
+            "shift": "Diurno",
+            "discipline": 144,
+            "teachers": [
+                13
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 308,
+        "fields": {
+            "name": "A",
+            "vacancies": 60,
+            "shift": "Diurno",
+            "discipline": 145,
+            "teachers": [
+                117
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 309,
+        "fields": {
+            "name": "B",
+            "vacancies": 120,
+            "shift": "Ambos",
+            "discipline": 146,
+            "teachers": [
+                82
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 310,
+        "fields": {
+            "name": "A",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 147,
+            "teachers": [
+                37
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 311,
+        "fields": {
+            "name": "A",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 148,
+            "teachers": [
+                113
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 312,
+        "fields": {
+            "name": "A",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 149,
+            "teachers": [
+                118
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 313,
+        "fields": {
+            "name": "AA",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 150,
+            "teachers": [
+                53
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 314,
+        "fields": {
+            "name": "A",
+            "vacancies": 45,
+            "shift": "Diurno",
+            "discipline": 151,
+            "teachers": [
+                120
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 315,
+        "fields": {
+            "name": "A",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 152,
+            "teachers": [
+                73
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 316,
+        "fields": {
+            "name": "A",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 153,
+            "teachers": [
+                112
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 317,
+        "fields": {
+            "name": "A",
+            "vacancies": 100,
+            "shift": "Diurno",
+            "discipline": 154,
+            "teachers": [
+                111
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 318,
+        "fields": {
+            "name": "B",
+            "vacancies": 100,
+            "shift": "Diurno",
+            "discipline": 154,
+            "teachers": [
+                111
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 319,
+        "fields": {
+            "name": "C",
+            "vacancies": 45,
+            "shift": "Ambos",
+            "discipline": 154,
+            "teachers": [
+                88
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 320,
+        "fields": {
+            "name": "A",
+            "vacancies": 10,
+            "shift": "Diurno",
+            "discipline": 155,
+            "teachers": [
+                123
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 321,
+        "fields": {
+            "name": "A",
+            "vacancies": 90,
+            "shift": "Diurno",
+            "discipline": 156,
+            "teachers": [
+                79
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 322,
+        "fields": {
+            "name": "B",
+            "vacancies": 90,
+            "shift": "Diurno",
+            "discipline": 156,
+            "teachers": [
+                99
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 323,
+        "fields": {
+            "name": "A",
+            "vacancies": 60,
+            "shift": "Diurno",
+            "discipline": 157,
+            "teachers": [
+                105
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 324,
+        "fields": {
+            "name": "A",
+            "vacancies": 200,
+            "shift": "Ambos",
+            "discipline": 158,
+            "teachers": [
+                107
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 325,
+        "fields": {
+            "name": "B",
+            "vacancies": 75,
+            "shift": "Diurno",
+            "discipline": 158,
+            "teachers": [
+                18,
+                125
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 326,
+        "fields": {
+            "name": "C",
+            "vacancies": 25,
+            "shift": "Ambos",
+            "discipline": 158,
+            "teachers": [
+                108
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 327,
+        "fields": {
+            "name": "D",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 158,
+            "teachers": [
+                60,
+                61
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 328,
+        "fields": {
+            "name": "A",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 159,
+            "teachers": [
+                122
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 329,
+        "fields": {
+            "name": "A",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 160,
+            "teachers": [
+                34
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 330,
+        "fields": {
+            "name": "A",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 161,
+            "teachers": [
+                98
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 331,
+        "fields": {
+            "name": "A",
+            "vacancies": 90,
+            "shift": "Diurno",
+            "discipline": 162,
+            "teachers": [
+                108
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 332,
+        "fields": {
+            "name": "B",
+            "vacancies": 100,
+            "shift": "Diurno",
+            "discipline": 162,
+            "teachers": [
+                84
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 333,
+        "fields": {
+            "name": "A",
+            "vacancies": 30,
+            "shift": "Diurno",
+            "discipline": 163,
+            "teachers": [
+                7
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 334,
+        "fields": {
+            "name": "B",
+            "vacancies": 30,
+            "shift": "Diurno",
+            "discipline": 163,
+            "teachers": [
+                8
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 335,
+        "fields": {
+            "name": "A",
+            "vacancies": 60,
+            "shift": "Diurno",
+            "discipline": 164,
+            "teachers": [
+                102
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 336,
+        "fields": {
+            "name": "A",
+            "vacancies": 40,
+            "shift": "Diurno",
+            "discipline": 165,
+            "teachers": [
+                96
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 337,
+        "fields": {
+            "name": "A",
+            "vacancies": 30,
+            "shift": "Diurno",
+            "discipline": 166,
+            "teachers": [
+                3
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 338,
+        "fields": {
+            "name": "C",
+            "vacancies": 20,
+            "shift": "Diurno",
+            "discipline": 166,
+            "teachers": [
+                117
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 339,
+        "fields": {
+            "name": "A",
+            "vacancies": 20,
+            "shift": "Ambos",
+            "discipline": 167,
+            "teachers": [
+                36
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 340,
+        "fields": {
+            "name": "A",
+            "vacancies": 55,
+            "shift": "Diurno",
+            "discipline": 168,
+            "teachers": [
+                107
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 341,
+        "fields": {
+            "name": "A",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                76
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 342,
+        "fields": {
+            "name": "AA",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                9,
+                36
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 343,
+        "fields": {
+            "name": "AB",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                25
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 344,
+        "fields": {
+            "name": "AC",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 169,
+            "teachers": [
+                31
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 345,
+        "fields": {
+            "name": "AD",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 169,
+            "teachers": [
+                46
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 346,
+        "fields": {
+            "name": "AE",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 169,
+            "teachers": [
+                37
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 347,
+        "fields": {
+            "name": "AF",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 169,
+            "teachers": [
+                53
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 348,
+        "fields": {
+            "name": "AG",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 169,
+            "teachers": [
+                76,
+                104
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 349,
+        "fields": {
+            "name": "AH",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 169,
+            "teachers": [
+                103
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 350,
+        "fields": {
+            "name": "AI",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 169,
+            "teachers": [
+                103,
+                95
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 351,
+        "fields": {
+            "name": "AJ",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 169,
+            "teachers": [
+                59,
+                25
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 352,
+        "fields": {
+            "name": "AK",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 169,
+            "teachers": [
+                103,
+                10
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 353,
+        "fields": {
+            "name": "AL",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 169,
+            "teachers": [
+                99
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 354,
+        "fields": {
+            "name": "AM",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 169,
+            "teachers": [
+                104
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 355,
+        "fields": {
+            "name": "AO",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 169,
+            "teachers": [
+                123,
+                111
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 356,
+        "fields": {
+            "name": "AP",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                10,
+                126
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 357,
+        "fields": {
+            "name": "AQ",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                36
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 358,
+        "fields": {
+            "name": "AR",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                95
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 359,
+        "fields": {
+            "name": "B",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                30
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 360,
+        "fields": {
+            "name": "BA",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 169,
+            "teachers": [
+                14
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 361,
+        "fields": {
+            "name": "BB",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 169,
+            "teachers": [
+                123
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 362,
+        "fields": {
+            "name": "BC",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 169,
+            "teachers": [
+                73
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 363,
+        "fields": {
+            "name": "BD",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 169,
+            "teachers": [
+                75
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 364,
+        "fields": {
+            "name": "BE",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                30,
+                75
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 365,
+        "fields": {
+            "name": "BF",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 169,
+            "teachers": [
+                86
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 366,
+        "fields": {
+            "name": "BG",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                78
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 367,
+        "fields": {
+            "name": "C",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                1
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 368,
+        "fields": {
+            "name": "CA",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                30
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 369,
+        "fields": {
+            "name": "CB",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                8
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 370,
+        "fields": {
+            "name": "CD",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 169,
+            "teachers": [
+                127,
+                30
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 371,
+        "fields": {
+            "name": "CE",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 169,
+            "teachers": [
+                13,
+                12
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 372,
+        "fields": {
+            "name": "CF",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 169,
+            "teachers": [
+                17
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 373,
+        "fields": {
+            "name": "CG",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 169,
+            "teachers": [
+                128
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 374,
+        "fields": {
+            "name": "CH",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                39
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 375,
+        "fields": {
+            "name": "CI",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                35
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 376,
+        "fields": {
+            "name": "CJ",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                11,
+                6
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 377,
+        "fields": {
+            "name": "CK",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                30,
+                8
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 378,
+        "fields": {
+            "name": "CL",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                34
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 379,
+        "fields": {
+            "name": "CM",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                6
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 380,
+        "fields": {
+            "name": "CN",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                7
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 381,
+        "fields": {
+            "name": "D",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                5,
+                129
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 382,
+        "fields": {
+            "name": "DA",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                60
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 383,
+        "fields": {
+            "name": "DB",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                81
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 384,
+        "fields": {
+            "name": "DC",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                18,
+                91
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 385,
+        "fields": {
+            "name": "DD",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                97,
+                105
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 386,
+        "fields": {
+            "name": "DE",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                107
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 387,
+        "fields": {
+            "name": "DG",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                19,
+                47
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 388,
+        "fields": {
+            "name": "DH",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                5
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 389,
+        "fields": {
+            "name": "DI",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                61
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 390,
+        "fields": {
+            "name": "DJ",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                106
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 391,
+        "fields": {
+            "name": "DK",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                94,
+                70
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 392,
+        "fields": {
+            "name": "DL",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                130,
+                61
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 393,
+        "fields": {
+            "name": "DM",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                5
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 394,
+        "fields": {
+            "name": "DN",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                61
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 395,
+        "fields": {
+            "name": "DO",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                113
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 396,
+        "fields": {
+            "name": "DP",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                54
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 397,
+        "fields": {
+            "name": "DQ",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                60
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 398,
+        "fields": {
+            "name": "DR",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                42
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 399,
+        "fields": {
+            "name": "DS",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                20
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 400,
+        "fields": {
+            "name": "DT",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                18
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 401,
+        "fields": {
+            "name": "DU",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                91
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 402,
+        "fields": {
+            "name": "DV",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                18,
+                5
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 403,
+        "fields": {
+            "name": "DW",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                97,
+                105
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 404,
+        "fields": {
+            "name": "DX",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 169,
+            "teachers": [
+                105
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 405,
+        "fields": {
+            "name": "DY",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 169,
+            "teachers": [
+                63
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 406,
+        "fields": {
+            "name": "EC",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                38
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 407,
+        "fields": {
+            "name": "ED",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                102
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 408,
+        "fields": {
+            "name": "EG",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                87
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 409,
+        "fields": {
+            "name": "EH",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                45
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 410,
+        "fields": {
+            "name": "EJ",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                85
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 411,
+        "fields": {
+            "name": "EK",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                90
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 412,
+        "fields": {
+            "name": "EL",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                51
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 413,
+        "fields": {
+            "name": "EN",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                3
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 414,
+        "fields": {
+            "name": "EO",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 169,
+            "teachers": [
+                88
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 415,
+        "fields": {
+            "name": "EP",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 169,
+            "teachers": [
+                33
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 416,
+        "fields": {
+            "name": "EQ",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 169,
+            "teachers": [
+                84
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 417,
+        "fields": {
+            "name": "ER",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 169,
+            "teachers": [
+                112
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 418,
+        "fields": {
+            "name": "ES",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 169,
+            "teachers": [
+                102,
+                50
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 419,
+        "fields": {
+            "name": "ET",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 169,
+            "teachers": [
+                114
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 420,
+        "fields": {
+            "name": "EU",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 169,
+            "teachers": [
+                117
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 421,
+        "fields": {
+            "name": "EY",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 169,
+            "teachers": [
+                30
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 422,
+        "fields": {
+            "name": "A",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                76
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 423,
+        "fields": {
+            "name": "AA",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                82
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 424,
+        "fields": {
+            "name": "AB",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                31
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 425,
+        "fields": {
+            "name": "AC",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 170,
+            "teachers": [
+                25
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 426,
+        "fields": {
+            "name": "AD",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                103,
+                31
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 427,
+        "fields": {
+            "name": "AE",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                103
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 428,
+        "fields": {
+            "name": "AF",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                109,
+                95
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 429,
+        "fields": {
+            "name": "AG",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                82,
+                36
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 430,
+        "fields": {
+            "name": "AH",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                29,
+                36
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 431,
+        "fields": {
+            "name": "AI",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                131,
+                59
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 432,
+        "fields": {
+            "name": "AJ",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                46
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 433,
+        "fields": {
+            "name": "AK",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 170,
+            "teachers": [
+                78
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 434,
+        "fields": {
+            "name": "AL",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 170,
+            "teachers": [
+                104
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 435,
+        "fields": {
+            "name": "AM",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 170,
+            "teachers": [
+                95
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 436,
+        "fields": {
+            "name": "B",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                14,
+                30
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 437,
+        "fields": {
+            "name": "BA",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                75
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 438,
+        "fields": {
+            "name": "BB",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                52,
+                46
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 439,
+        "fields": {
+            "name": "BC",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                122
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 440,
+        "fields": {
+            "name": "BD",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                73
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 441,
+        "fields": {
+            "name": "BE",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                104
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 442,
+        "fields": {
+            "name": "C",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                6
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 443,
+        "fields": {
+            "name": "CA",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                13,
+                1
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 444,
+        "fields": {
+            "name": "CB",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                11
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 445,
+        "fields": {
+            "name": "CC",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                74
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 446,
+        "fields": {
+            "name": "CD",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                4
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 447,
+        "fields": {
+            "name": "CE",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                116
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 448,
+        "fields": {
+            "name": "CF",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                39
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 449,
+        "fields": {
+            "name": "CG",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                35
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 450,
+        "fields": {
+            "name": "CH",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                96
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 451,
+        "fields": {
+            "name": "CI",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                34
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 452,
+        "fields": {
+            "name": "CJ",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                8
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 453,
+        "fields": {
+            "name": "CK",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                27
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 454,
+        "fields": {
+            "name": "CL",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                17
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 455,
+        "fields": {
+            "name": "D",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                69
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 456,
+        "fields": {
+            "name": "DA",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                113
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 457,
+        "fields": {
+            "name": "DB",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                81
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 458,
+        "fields": {
+            "name": "DC",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                91
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 459,
+        "fields": {
+            "name": "DD",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                107
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 460,
+        "fields": {
+            "name": "DE",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                105
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 461,
+        "fields": {
+            "name": "DF",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                5
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 462,
+        "fields": {
+            "name": "DG",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                106
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 463,
+        "fields": {
+            "name": "DH",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                94,
+                19
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 464,
+        "fields": {
+            "name": "DI",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                61
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 465,
+        "fields": {
+            "name": "DJ",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                54
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 466,
+        "fields": {
+            "name": "DK",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                41
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 467,
+        "fields": {
+            "name": "DL",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                98
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 468,
+        "fields": {
+            "name": "DM",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                81,
+                54
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 469,
+        "fields": {
+            "name": "DN",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                94
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 470,
+        "fields": {
+            "name": "DO",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                109
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 471,
+        "fields": {
+            "name": "DP",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                18
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 472,
+        "fields": {
+            "name": "DQ",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                132,
+                94
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 473,
+        "fields": {
+            "name": "DS",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 170,
+            "teachers": [
+                5,
+                121
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 474,
+        "fields": {
+            "name": "E",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                45
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 475,
+        "fields": {
+            "name": "EA",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                8
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 476,
+        "fields": {
+            "name": "EB",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                38
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 477,
+        "fields": {
+            "name": "EC",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                51
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 478,
+        "fields": {
+            "name": "ED",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                88
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 479,
+        "fields": {
+            "name": "EE",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                87
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 480,
+        "fields": {
+            "name": "EF",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                51,
+                87
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 481,
+        "fields": {
+            "name": "EG",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                109,
+                101
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 482,
+        "fields": {
+            "name": "EH",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                109
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 483,
+        "fields": {
+            "name": "EI",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                90
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 484,
+        "fields": {
+            "name": "EJ",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                123,
+                111
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 485,
+        "fields": {
+            "name": "EK",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                133,
+                110
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 486,
+        "fields": {
+            "name": "EL",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                4
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 487,
+        "fields": {
+            "name": "EM",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                134,
+                117
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 488,
+        "fields": {
+            "name": "EN",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                102
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 489,
+        "fields": {
+            "name": "EO",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                120
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 490,
+        "fields": {
+            "name": "EP",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                85
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 491,
+        "fields": {
+            "name": "EQ",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                3
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 492,
+        "fields": {
+            "name": "ER",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                75
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 493,
+        "fields": {
+            "name": "ES",
+            "vacancies": 0,
+            "shift": "Diurno",
+            "discipline": 170,
+            "teachers": [
+                117
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 494,
+        "fields": {
+            "name": "ET",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 170,
+            "teachers": [
+                100
+            ]
+        }
+    },
+    {
+        "model": "offers.disciplineclass",
+        "pk": 495,
+        "fields": {
+            "name": "EU",
+            "vacancies": 0,
+            "shift": "Ambos",
+            "discipline": 170,
+            "teachers": [
+                102,
+                45
+            ]
+        }
+    }
+]

@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 from offer_crawler import BASE_URL
 from offer_crawler.Mixins import TableReaderMixin, UrlLoaderMixin
 from offer_crawler.builders.ClassBuilder import ClassBuilder
-from offer_crawler.Discipline import Discipline
+from offer_crawler.classes.Discipline import Discipline
 
 
 class DisciplinesBuilder(TableReaderMixin, UrlLoaderMixin):

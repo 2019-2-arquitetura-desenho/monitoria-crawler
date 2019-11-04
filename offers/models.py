@@ -4,8 +4,7 @@ from django.db import models
 class Discipline(models.Model):
     name = models.CharField(max_length=250)
     code = models.IntegerField()
-    department = models.IntegerField()
-    credits = models.SmallIntegerField()
+    credits = models.CharField(max_length=250)
 
 
 class Professor(models.Model):
@@ -16,7 +15,8 @@ class DisciplineClass(models.Model):
     name = models.CharField(max_length=5)
     vacancies = models.SmallIntegerField()
     discipline = models.ForeignKey(
-        'Discipline',
+        Discipline,
+        related_name = 'discipline_class',
         on_delete=models.CASCADE
     )
     shift = models.CharField(max_length=250)
@@ -39,10 +39,11 @@ class Alocation(models.Model):
 
 class Meeting(models.Model):
     discipline_class = models.ForeignKey(
-        'DisciplineClass',
+        DisciplineClass,
+        related_name = 'meetings',
         on_delete=models.CASCADE
     )
     day = models.CharField(max_length=50)
-    init_hout = models.TimeField()
-    final_hout = models.TimeField()
+    init_hour = models.TimeField()
+    final_hour = models.TimeField()
     room = models.CharField(max_length=250)

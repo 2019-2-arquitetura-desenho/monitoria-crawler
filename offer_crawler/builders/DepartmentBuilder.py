@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 
 from offer_crawler import BASE_URL
 from offer_crawler.Mixins import TableReaderMixin, UrlLoaderMixin
-from offer_crawler.Department import Department
+from offer_crawler.classes.Department import Department
 from offer_crawler.builders.DisciplinesBuilder import DisciplinesBuilder
 from multiprocessing.dummy import Pool as ThreadPool
 
@@ -63,10 +63,10 @@ class DepartmentBuilder(TableReaderMixin, UrlLoaderMixin):
             pool.close()
             pool.join()
 
-        print("[Department {}] Finished".format(name))
+        print('[Department {}] Finished'.format(name))
         return disciplines
 
-    def buildDepartment(self, code, name):
+    def buildDepartment(self, code=650, name= 'UNB - FACULDADE DO GAMA'):
 
         disciplines = self.buildFromHtml(code, name)
 

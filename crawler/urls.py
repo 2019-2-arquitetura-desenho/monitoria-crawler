@@ -17,16 +17,11 @@ from django.contrib import admin
 from django.urls import path
 from rest_framework import routers
 from django.conf.urls import include
-from offers.views import DisciplineViewSet, DisciplineClassViewSet
-from offers.views import ProfessorViewSet, AlocationViewSet, MeetingViewSet
+from offers.views import DisciplineViewSet
 
 
 router = routers.DefaultRouter()
 router.register(r'discipline', DisciplineViewSet)
-router.register(r'disciplineclass', DisciplineClassViewSet)
-router.register(r'professor', ProfessorViewSet)
-router.register(r'alocation', AlocationViewSet)
-router.register(r'meeting', MeetingViewSet)
 
 urlpatterns = [
     path('', include(router.urls)),

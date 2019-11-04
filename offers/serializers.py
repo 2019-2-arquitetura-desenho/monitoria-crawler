@@ -1,33 +1,31 @@
 from rest_framework import serializers
 from .models import Discipline, DisciplineClass
-from .models import Professor, Alocation, Meeting
-
-
-class DisciplineSerializer(serializers.ModelSerializer):
-    class Meta:
-        model = Discipline
-        fields = '__all__'
-
-
-class DisciplineClassSerializer(serializers.ModelSerializer):
-    class Meta:
-        model = DisciplineClass
-        fields = '__all__'
+from .models import Professor, Meeting
 
 
 class ProfessorSerializer(serializers.ModelSerializer):
     class Meta:
         model = Professor
-        fields = '__all__'
-
-
-class AlocationSerializer(serializers.ModelSerializer):
-    class Meta:
-        model = Alocation
-        fields = '__all__'
+        fields = ['name']
 
 
 class MeetingSerializer(serializers.ModelSerializer):
     class Meta:
         model = Meeting
-        fields = '__all__'
+        fields = ['day', 'init_hour', 'final_hour', 'room']
+
+
+class DisciplineClassSerializer(serializers.ModelSerializer):
+    teachers = ProfessorSerializer(many=True, read_only=True)
+    meetings = MeetingSerializer(many=True, read_only=True)
+
+    class Meta:
+        model = DisciplineClass
+        fields = ['name', 'vacancies', 'shift', 'teachers', 'meetings']
+
+class DisciplineSerializer(serializers.ModelSerializer):
+    discipline_class = DisciplineClassSerializer(many=True, read_only=True)
+
+    class Meta:
+        model = Discipline
+        fields = ['name', 'code', 'discipline_class']
