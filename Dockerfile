@@ -9,3 +9,4 @@ ADD requirements.txt /code
 RUN pip3 install -r requirements.txt
 ADD . /code
 ENV PYTHONPATH "."
+CMD gunicorn offers_api.wsgi:application --bind 0.0.0.0:$PORT
