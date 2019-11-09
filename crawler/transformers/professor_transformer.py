@@ -1,4 +1,4 @@
-from offer_crawler.transformers.transformer import JsonTransformer
+from crawler.transformers.transformer import JsonTransformer
 import collections
 
 class ProfessorTransformer(JsonTransformer):

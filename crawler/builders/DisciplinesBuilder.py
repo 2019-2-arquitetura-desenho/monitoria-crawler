@@ -5,10 +5,10 @@
 
 from bs4 import BeautifulSoup
 
-from offer_crawler import BASE_URL
-from offer_crawler.Mixins import TableReaderMixin, UrlLoaderMixin
-from offer_crawler.builders.ClassBuilder import ClassBuilder
-from offer_crawler.classes.Discipline import Discipline
+from crawler import BASE_URL
+from crawler.Mixins import TableReaderMixin, UrlLoaderMixin
+from crawler.builders.ClassBuilder import ClassBuilder
+from crawler.classes.Discipline import Discipline
 
 
 class DisciplinesBuilder(TableReaderMixin, UrlLoaderMixin):

@@ -1,7 +1,7 @@
-from offer_crawler.transformers.discipline_transformer import DisciplineTransformer
-from offer_crawler.transformers.discipline_class_transformer import DisciplineClassTransformer
-from offer_crawler.transformers.professor_transformer import ProfessorTransformer
-from offer_crawler.transformers.meeting_transformer import MeetingTransformer
+from crawler.transformers.discipline_transformer import DisciplineTransformer
+from crawler.transformers.discipline_class_transformer import DisciplineClassTransformer
+from crawler.transformers.professor_transformer import ProfessorTransformer
+from crawler.transformers.meeting_transformer import MeetingTransformer
 import json
 
 

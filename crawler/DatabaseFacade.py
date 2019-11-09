@@ -1,6 +1,6 @@
-from offer_crawler.builders.DepartmentBuilder import DepartmentBuilder
-from offer_crawler.savers.JsonBuilder import JsonBuilder
-from offer_crawler.savers.Saver import Saver
+from crawler.builders.DepartmentBuilder import DepartmentBuilder
+from crawler.savers.JsonBuilder import JsonBuilder
+from crawler.savers.Saver import Saver
 
 
 class Facade:
