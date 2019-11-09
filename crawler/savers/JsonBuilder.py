@@ -1,9 +1,9 @@
-from offer_crawler.builders.DepartmentBuilder import DepartmentBuilder
-from offer_crawler.transformers.discipline_transformer import DisciplineTransformer
-from offer_crawler.transformers.discipline_class_transformer import DisciplineClassTransformer
-from offer_crawler.transformers.professor_transformer import ProfessorTransformer
-from offer_crawler.transformers.meeting_transformer import MeetingTransformer
-from offer_crawler.savers.Saver import Saver
+from crawler.builders.DepartmentBuilder import DepartmentBuilder
+from crawler.transformers.discipline_transformer import DisciplineTransformer
+from crawler.transformers.discipline_class_transformer import DisciplineClassTransformer
+from crawler.transformers.professor_transformer import ProfessorTransformer
+from crawler.transformers.meeting_transformer import MeetingTransformer
+from crawler.savers.Saver import Saver
 import collections
 
 

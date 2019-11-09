@@ -1,5 +1,5 @@
 import collections
-from offer_crawler.transformers.transformer import JsonTransformer
+from crawler.transformers.transformer import JsonTransformer
 
 
 class DisciplineTransformer(JsonTransformer):

@@ -3,7 +3,7 @@
 # desenvolveu-se as necessidades do nosso projeto tendo
 # como base o projeto citado.
 
-from offer_crawler.classes.Class import Class
+from crawler.classes.Class import Class
 
 
 class ClassBuilder:
